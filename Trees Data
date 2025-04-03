@@ -1,0 +1,2279 @@
+"","Plot","Code","Genus","Common name","DBH","Chojnacky_Code"
+"1","M3","AMB","Fagus","American beech",3.4,23
+"2","P4","AMB","Fagus","American beech",4.9,23
+"3","D6","AMB","Fagus","American beech",4.8,23
+"4","M4","AMB","Fagus","American beech",9.7,23
+"5","S5","AMB","Fagus","American beech",6.5,23
+"6","L4","AMB","Fagus","American beech",8.5,23
+"7","G6","AMB","Fagus","American beech",5.4,23
+"8","N4","AMB","Fagus","American beech",7.1,23
+"9","K3","AMB","Fagus","American beech",22.2,23
+"10","P4","AMB","Fagus","American beech",14.4,23
+"11","P6","AMB","Fagus","American beech",9.2,23
+"12","C5","AMB","Fagus","American beech",6.3,23
+"13","D5","AMB","Fagus","American beech",8.5,23
+"14","R6","AMB","Fagus","American beech",7.3,23
+"15","G2","AMB","Fagus","American beech",5.5,23
+"16","C7","AMB","Fagus","American beech",11.2,23
+"17","C1","AMB","Fagus","American beech",7.4,23
+"18","Q7","AMB","Fagus","American beech",34.1,23
+"19","B5","AMB","Fagus","American beech",5.6,23
+"20","I2","AMB","Fagus","American beech",7.8,23
+"21","O4","AMB","Fagus","American beech",5.6,23
+"22","G2","AMB","Fagus","American beech",12.9,23
+"23","S5","AMB","Fagus","American beech",17.2,23
+"24","J6","AMB","Fagus","American beech",4.9,23
+"25","F7","AMB","Fagus","American beech",6.6,23
+"26","P6","AMB","Fagus","American beech",7.2,23
+"27","D7","AMB","Fagus","American beech",7.9,23
+"28","O4","AMB","Fagus","American beech",7.2,23
+"29","K4","AMB","Fagus","American beech",12.8,23
+"30","K4","AMB","Fagus","American beech",4.8,23
+"31","H6","AMB","Fagus","American beech",6.6,23
+"32","C7","AMB","Fagus","American beech",5.5,23
+"33","L3","AMB","Fagus","American beech",14.5,23
+"34","A5","AMB","Fagus","American beech",18.7,23
+"35","L3","AMB","Fagus","American beech",8.1,23
+"36","O5","AMB","Fagus","American beech",25.6,23
+"37","Q5","AMB","Fagus","American beech",15.7,23
+"38","Q5","AMB","Fagus","American beech",18.9,23
+"39","I2","AMB","Fagus","American beech",6.4,23
+"40","O5","AMB","Fagus","American beech",7.3,23
+"41","L4","AMB","Fagus","American beech",8.1,23
+"42","Q6","AMB","Fagus","American beech",5.8,23
+"43","P4","AMB","Fagus","American beech",6.2,23
+"44","F1","AMB","Fagus","American beech",13.2,23
+"45","Q5","AMB","Fagus","American beech",19.8,23
+"46","D5","AMB","Fagus","American beech",6.3,23
+"47","S5","AMB","Fagus","American beech",10.4,23
+"48","O4","AMB","Fagus","American beech",7.8,23
+"49","Q5","AMB","Fagus","American beech",17.5,23
+"50","F1","AMB","Fagus","American beech",5.8,23
+"51","L4","AMB","Fagus","American beech",9.2,23
+"52","I2","AMB","Fagus","American beech",5.4,23
+"53","K3","AMB","Fagus","American beech",12.4,23
+"54","L4","AMB","Fagus","American beech",7.7,23
+"55","K4","AMB","Fagus","American beech",6.7,23
+"56","M3","AMB","Fagus","American beech",6.8,23
+"57","A5","AMB","Fagus","American beech",14,23
+"58","K3","AMB","Fagus","American beech",9,23
+"59","I6","AMB","Fagus","American beech",4.6,23
+"60","J4","AMB","Fagus","American beech",6.5,23
+"61","I2","AMB","Fagus","American beech",11.1,23
+"62","E7","AMB","Fagus","American beech",8.5,23
+"63","E5","AMB","Fagus","American beech",11.2,23
+"64","A6","AMB","Fagus","American beech",5.5,23
+"65","E5","AMB","Fagus","American beech",8.3,23
+"66","J3","AMB","Fagus","American beech",5.5,23
+"67","C5","AMB","Fagus","American beech",7.9,23
+"68","B4","AMB","Fagus","American beech",6.8,23
+"69","L4","AMB","Fagus","American beech",5.1,23
+"70","A5","AMB","Fagus","American beech",5.9,23
+"71","B4","AMB","Fagus","American beech",6.1,23
+"72","E7","AMB","Fagus","American beech",9.9,23
+"73","Q5","AMB","Fagus","American beech",7.8,23
+"74","Q5","AMB","Fagus","American beech",5.7,23
+"75","I2","AMB","Fagus","American beech",6.8,23
+"76","M3","AMB","Fagus","American beech",21.8,23
+"77","Q6","AMB","Fagus","American beech",6.5,23
+"78","O5","AMB","Fagus","American beech",18.5,23
+"79","G6","AMB","Fagus","American beech",5.5,23
+"80","C7","AMB","Fagus","American beech",5.8,23
+"81","F1","AMB","Fagus","American beech",16,23
+"82","C7","AMB","Fagus","American beech",4.6,23
+"83","C6","AMB","Fagus","American beech",8,23
+"84","R6","AMB","Fagus","American beech",4.9,23
+"85","M4","AMB","Fagus","American beech",12.5,23
+"86","G6","AMB","Fagus","American beech",5.3,23
+"87","B5","AMB","Fagus","American beech",5,23
+"88","M3","AMB","Fagus","American beech",5.1,23
+"89","C5","AMB","Fagus","American beech",7.2,23
+"90","L4","AMB","Fagus","American beech",8.6,23
+"91","K4","AMB","Fagus","American beech",5.1,23
+"92","C7","AME","Ulmus","American elm",5.4,20
+"93","Q4","AME","Ulmus","American elm",16.8,20
+"94","Q4","AME","Ulmus","American elm",6.5,20
+"95","Q4","AME","Ulmus","American elm",8.5,20
+"96","J2","AME","Ulmus","American elm",8,20
+"97","Q4","AMS","Platanus","American sycamore",18,20
+"98","I2","AMS","Platanus","American sycamore",8.7,20
+"99","Q4","AMS","Platanus","American sycamore",18.8,20
+"100","D7","AMS","Platanus","American sycamore",22.3,20
+"101","Q4","AMS","Platanus","American sycamore",14.8,20
+"102","Q4","AMS","Platanus","American sycamore",14.9,20
+"103","K3","BAS","Tilia","American basswood",9.1,26
+"104","C1","BAS","Tilia","American basswood",22.1,26
+"105","D1","BAS","Tilia","American basswood",11.3,26
+"106","Q4","BAS","Tilia","American basswood",7.6,26
+"107","C1","BAS","Tilia","American basswood",23,26
+"108","E1","BAS","Tilia","American basswood",9.3,26
+"109","J2","BAS","Tilia","American basswood",9,26
+"110","Q4","BAS","Tilia","American basswood",8.2,26
+"111","O4","BAS","Tilia","American basswood",22.6,26
+"112","C7","BAS","Tilia","American basswood",5,26
+"113","L3","BAS","Tilia","American basswood",8.9,26
+"114","J2","BAS","Tilia","American basswood",12,26
+"115","J2","BAS","Tilia","American basswood",5.6,26
+"116","I2","BAS","Tilia","American basswood",7.3,26
+"117","J2","BAS","Tilia","American basswood",19.8,26
+"118","E1","BAS","Tilia","American basswood",6.2,26
+"119","D3","BAS","Tilia","American basswood",7.4,26
+"120","C7","BAS","Tilia","American basswood",7.3,26
+"121","J2","BAS","Tilia","American basswood",10.6,26
+"122","J2","BAS","Tilia","American basswood",9.6,26
+"123","J2","BAS","Tilia","American basswood",15,26
+"124","F1","BAS","Tilia","American basswood",6.5,26
+"125","M3","BAS","Tilia","American basswood",5,26
+"126","C7","BAS","Tilia","American basswood",6.7,26
+"127","P4","BAS","Tilia","American basswood",7.4,26
+"128","M3","BAS","Tilia","American basswood",6.7,26
+"129","J2","BAS","Tilia","American basswood",10.4,26
+"130","S5","BAS","Tilia","American basswood",14.6,26
+"131","D3","BAS","Tilia","American basswood",10.2,26
+"132","L3","BAS","Tilia","American basswood",8.5,26
+"133","C7","BAS","Tilia","American basswood",6.1,26
+"134","S5","BAS","Tilia","American basswood",6.1,26
+"135","C1","BAS","Tilia","American basswood",8.7,26
+"136","C7","BAS","Tilia","American basswood",6.7,26
+"137","E1","BAS","Tilia","American basswood",24,26
+"138","Q4","BAS","Tilia","American basswood",6.5,26
+"139","I2","BAS","Tilia","American basswood",5.6,26
+"140","G2","BAS","Tilia","American basswood",17.7,26
+"141","S5","BAS","Tilia","American basswood",13.2,26
+"142","I3","BIA","Populus","Bigtooth aspen",15.3,31
+"143","I3","BIA","Populus","Bigtooth aspen",8.4,31
+"144","C5","BIA","Populus","Bigtooth aspen",14,31
+"145","I3","BIA","Populus","Bigtooth aspen",17.3,31
+"146","C5","BIA","Populus","Bigtooth aspen",13.77,31
+"147","H2","BIH","Carya","Bitternut hickory",13.7,21
+"148","Q7","BIH","Carya","Bitternut hickory",21,21
+"149","R5","BIH","Carya","Bitternut hickory",18.5,21
+"150","H2","BIH","Carya","Bitternut hickory",9.8,21
+"151","K6","BIH","Carya","Bitternut hickory",13.5,21
+"152","G2","BIH","Carya","Bitternut hickory",12.2,21
+"153","J3","BIH","Carya","Bitternut hickory",15.3,21
+"154","P5","BIH","Carya","Bitternut hickory",23,21
+"155","E1","BIH","Carya","Bitternut hickory",11.2,21
+"156","Q5","BIH","Carya","Bitternut hickory",19.1,21
+"157","P5","BIH","Carya","Bitternut hickory",16,21
+"158","F1","BLC","Prunus","Black cherry",10.2,20
+"159","C7","BLC","Prunus","Black cherry",8.2,20
+"160","F1","BLC","Prunus","Black cherry",10.6,20
+"161","F1","BLC","Prunus","Black cherry",10.7,20
+"162","C7","BLC","Prunus","Black cherry",7.5,20
+"163","K6","BLG","Nyssa","Black gum",16.1,20
+"164","A5","BLG","Nyssa","Black gum",8.3,20
+"165","B5","BLG","Nyssa","Black gum",5.9,20
+"166","L4","BLG","Nyssa","Black gum",4.9,20
+"167","C6","BLG","Nyssa","Black gum",5.5,20
+"168","R5","BLG","Nyssa","Black gum",18,20
+"169","E5","BLG","Nyssa","Black gum",8.1,20
+"170","D5","BLG","Nyssa","Black gum",5.7,20
+"171","P5","BLG","Nyssa","Black gum",12.2,20
+"172","P5","BLG","Nyssa","Black gum",14.5,20
+"173","H3","BLG","Nyssa","Black gum",11.2,20
+"174","C5","BLG","Nyssa","Black gum",6.5,20
+"175","I4","BLG","Nyssa","Black gum",6,20
+"176","Q5","BLG","Nyssa","Black gum",8.5,20
+"177","G7","BLG","Nyssa","Black gum",5,20
+"178","I6","BLG","Nyssa","Black gum",10.4,20
+"179","L4","BLG","Nyssa","Black gum",12.2,20
+"180","E3","BLG","Nyssa","Black gum",5,20
+"181","K6","BLG","Nyssa","Black gum",5.4,20
+"182","J4","BLG","Nyssa","Black gum",6.2,20
+"183","B5","BLG","Nyssa","Black gum",10.1,20
+"184","E3","BLG","Nyssa","Black gum",5.6,20
+"185","Q6","BLG","Nyssa","Black gum",17.2,20
+"186","Q7","BLG","Nyssa","Black gum",7.2,20
+"187","R5","BLG","Nyssa","Black gum",14.8,20
+"188","M4","BLG","Nyssa","Black gum",8.2,20
+"189","J4","BLG","Nyssa","Black gum",16.5,20
+"190","F1","BLG","Nyssa","Black gum",13,20
+"191","A5","BLG","Nyssa","Black gum",7.9,20
+"192","Q5","BLG","Nyssa","Black gum",5.8,20
+"193","L4","BLO","Quercus","Black oak",32.3,23
+"194","L4","BLO","Quercus","Black oak",23.8,23
+"195","F2","BLO","Quercus","Black oak",20.3,23
+"196","G4","BLO","Quercus","Black oak",19.6,23
+"197","F2","BLO","Quercus","Black oak",27.4,23
+"198","J6","BLO","Quercus","Black oak",17,23
+"199","C6","BLO","Quercus","Black oak",20.6,23
+"200","G3","BLO","Quercus","Black oak",27,23
+"201","F2","BLO","Quercus","Black oak",16.7,23
+"202","I6","BLO","Quercus","Black oak",18.3,23
+"203","H7","BLO","Quercus","Black oak",8.1,23
+"204","F2","BLO","Quercus","Black oak",15.4,23
+"205","J5","BLO","Quercus","Black oak",14.8,23
+"206","E3","BLO","Quercus","Black oak",17,23
+"207","I6","BLO","Quercus","Black oak",23.9,23
+"208","J5","BLO","Quercus","Black oak",24.5,23
+"209","M4","BLO","Quercus","Black oak",27.3,23
+"210","B6","BLO","Quercus","Black oak",7.2,23
+"211","O4","BLO","Quercus","Black oak",27.4,23
+"212","M4","BLO","Quercus","Black oak",22,23
+"213","K6","BLO","Quercus","Black oak",18.1,23
+"214","J3","BLO","Quercus","Black oak",22.7,23
+"215","F7","BLO","Quercus","Black oak",5.9,23
+"216","C1","BLO","Quercus","Black oak",19.7,23
+"217","C7","BLO","Quercus","Black oak",18.6,23
+"218","G3","BLO","Quercus","Black oak",16.8,23
+"219","G3","BLO","Quercus","Black oak",18.7,23
+"220","G4","BLO","Quercus","Black oak",17.6,23
+"221","C6","BLO","Quercus","Black oak",9.6,23
+"222","G3","BLO","Quercus","Black oak",22.6,23
+"223","S5","BLO","Quercus","Black oak",24.5,23
+"224","J5","BLO","Quercus","Black oak",16.3,23
+"225","M4","BLO","Quercus","Black oak",30,23
+"226","E4","BLO","Quercus","Black oak",16.6,23
+"227","K6","BLO","Quercus","Black oak",18,23
+"228","G4","BLO","Quercus","Black oak",14.6,23
+"229","M4","BLO","Quercus","Black oak",29.3,23
+"230","J3","BLO","Quercus","Black oak",21.4,23
+"231","C6","BLO","Quercus","Black oak",22,23
+"232","E7","BLO","Quercus","Black oak",6.9,23
+"233","I6","BLO","Quercus","Black oak",13.8,23
+"234","K6","BLO","Quercus","Black oak",25.4,23
+"235","F4","BLO","Quercus","Black oak",16.5,23
+"236","F2","BLO","Quercus","Black oak",27.3,23
+"237","M4","BLO","Quercus","Black oak",15.9,23
+"238","F2","BLO","Quercus","Black oak",15.5,23
+"239","J4","BLO","Quercus","Black oak",17,23
+"240","M4","BLO","Quercus","Black oak",25.4,23
+"241","E6","BLO","Quercus","Black oak",18.7,23
+"242","R6","BLO","Quercus","Black oak",28.7,23
+"243","H6","BLO","Quercus","Black oak",21.7,23
+"244","I4","BLO","Quercus","Black oak",24.3,23
+"245","G4","BLO","Quercus","Black oak",20.5,23
+"246","G3","BLO","Quercus","Black oak",24.6,23
+"247","G3","BLO","Quercus","Black oak",26,23
+"248","G6","BLO","Quercus","Black oak",21.3,23
+"249","D4","BLO","Quercus","Black oak",20.6,23
+"250","J6","BLO","Quercus","Black oak",18.8,23
+"251","C4","BLO","Quercus","Black oak",20.2,23
+"252","H4","BLO","Quercus","Black oak",20.7,23
+"253","E5","BLO","Quercus","Black oak",18.2,23
+"254","H7","BLO","Quercus","Black oak",27.1,23
+"255","G4","BLO","Quercus","Black oak",21.8,23
+"256","K6","BLO","Quercus","Black oak",20.6,23
+"257","F2","BLO","Quercus","Black oak",24,23
+"258","F4","BLO","Quercus","Black oak",18.5,23
+"259","G4","BLO","Quercus","Black oak",16.8,23
+"260","H4","BLO","Quercus","Black oak",19.5,23
+"261","E6","BLO","Quercus","Black oak",17.3,23
+"262","A6","BLO","Quercus","Black oak",15.4,23
+"263","R6","BLO","Quercus","Black oak",22.1,23
+"264","F4","BLO","Quercus","Black oak",17.1,23
+"265","H5","BLO","Quercus","Black oak",25.8,23
+"266","E6","BLO","Quercus","Black oak",21.4,23
+"267","S5","BLO","Quercus","Black oak",23.2,23
+"268","E6","BLO","Quercus","Black oak",12.8,23
+"269","M4","BLO","Quercus","Black oak",13.2,23
+"270","H5","BLO","Quercus","Black oak",23.8,23
+"271","L3","BLO","Quercus","Black oak",19.6,23
+"272","E7","BLO","Quercus","Black oak",7.4,23
+"273","G4","BLO","Quercus","Black oak",19,23
+"274","I4","BLO","Quercus","Black oak",13.8,23
+"275","L3","BLO","Quercus","Black oak",11.5,23
+"276","B4","BLO","Quercus","Black oak",23,23
+"277","I4","BLO","Quercus","Black oak",28.6,23
+"278","A5","BLO","Quercus","Black oak",25.4,23
+"279","E7","BLO","Quercus","Black oak",4.6,23
+"280","F7","BLO","Quercus","Black oak",6.1,23
+"281","G4","BLO","Quercus","Black oak",15.8,23
+"282","J6","BLO","Quercus","Black oak",16.2,23
+"283","H4","BLO","Quercus","Black oak",24,23
+"284","C7","BLO","Quercus","Black oak",22.3,23
+"285","J5","BLO","Quercus","Black oak",18.4,23
+"286","M4","BLO","Quercus","Black oak",19.1,23
+"287","L4","BLW","Juglans","Black walnut",11.4,22
+"288","Q4","BLW","Juglans","Black walnut",17.9,22
+"289","P4","BLW","Juglans","Black walnut",19.7,22
+"290","Q4","BLW","Juglans","Black walnut",8.4,22
+"291","Q4","BLW","Juglans","Black walnut",8.8,22
+"292","Q4","BLW","Juglans","Black walnut",10.4,22
+"293","J2","BLW","Juglans","Black walnut",19,22
+"294","F1","BLW","Juglans","Black walnut",9.7,22
+"295","Q4","BLW","Juglans","Black walnut",13.6,22
+"296","J2","BLW","Juglans","Black walnut",9.7,22
+"297","Q4","BLW","Juglans","Black walnut",15.1,22
+"298","Q4","BLW","Juglans","Black walnut",18,22
+"299","J2","BLW","Juglans","Black walnut",14.5,22
+"300","J2","BLW","Juglans","Black walnut",12.1,22
+"301","Q7","BLW","Juglans","Black walnut",18.8,22
+"302","J2","BLW","Juglans","Black walnut",16.4,22
+"303","M3","BLW","Juglans","Black walnut",9.6,22
+"304","J2","BLW","Juglans","Black walnut",10.8,22
+"305","J2","BLW","Juglans","Black walnut",20.3,22
+"306","Q4","BLW","Juglans","Black walnut",9.3,22
+"307","L4","BLW","Juglans","Black walnut",16.8,22
+"308","J5","BLW","Juglans","Black walnut",13.8,22
+"309","Q4","BLW","Juglans","Black walnut",14.6,22
+"310","Q4","BLW","Juglans","Black walnut",14.3,22
+"311","M3","BLW","Juglans","Black walnut",7.9,22
+"312","Q4","BLW","Juglans","Black walnut",11.2,22
+"313","G2","BLW","Juglans","Black walnut",24.3,22
+"314","K3","BUT","Juglans","Butternut",14.7,22
+"315","J6","CHO","Quercus","Chestnut oak",14,23
+"316","E4","CHO","Quercus","Chestnut oak",9.7,23
+"317","H4","CHO","Quercus","Chestnut oak",17.7,23
+"318","E6","CHO","Quercus","Chestnut oak",18.5,23
+"319","C6","CHO","Quercus","Chestnut oak",12.7,23
+"320","G5","CHO","Quercus","Chestnut oak",19.5,23
+"321","L5","CHO","Quercus","Chestnut oak",17.4,23
+"322","E4","CHO","Quercus","Chestnut oak",19,23
+"323","L5","CHO","Quercus","Chestnut oak",20.6,23
+"324","E6","CHO","Quercus","Chestnut oak",17.6,23
+"325","Q5","CHO","Quercus","Chestnut oak",17.1,23
+"326","D5","CHO","Quercus","Chestnut oak",21.3,23
+"327","C4","CHO","Quercus","Chestnut oak",9.3,23
+"328","I5","CHO","Quercus","Chestnut oak",18.8,23
+"329","E4","CHO","Quercus","Chestnut oak",17.3,23
+"330","D4","CHO","Quercus","Chestnut oak",17,23
+"331","F6","CHO","Quercus","Chestnut oak",22.1,23
+"332","C4","CHO","Quercus","Chestnut oak",18.5,23
+"333","F7","CHO","Quercus","Chestnut oak",10.6,23
+"334","G4","CHO","Quercus","Chestnut oak",14.4,23
+"335","G4","CHO","Quercus","Chestnut oak",18,23
+"336","I6","CHO","Quercus","Chestnut oak",12.9,23
+"337","E6","CHO","Quercus","Chestnut oak",12.7,23
+"338","D4","CHO","Quercus","Chestnut oak",10.1,23
+"339","H6","CHO","Quercus","Chestnut oak",19.7,23
+"340","G5","CHO","Quercus","Chestnut oak",22.1,23
+"341","G7","CHO","Quercus","Chestnut oak",13.9,23
+"342","F4","CHO","Quercus","Chestnut oak",17.1,23
+"343","C5","CHO","Quercus","Chestnut oak",5.8,23
+"344","I6","CHO","Quercus","Chestnut oak",11.2,23
+"345","E6","CHO","Quercus","Chestnut oak",18.5,23
+"346","K5","CHO","Quercus","Chestnut oak",19.1,23
+"347","D4","CHO","Quercus","Chestnut oak",14.2,23
+"348","H4","CHO","Quercus","Chestnut oak",17.7,23
+"349","D3","CHO","Quercus","Chestnut oak",13.6,23
+"350","G6","CHO","Quercus","Chestnut oak",26.9,23
+"351","H4","CHO","Quercus","Chestnut oak",15.4,23
+"352","I5","CHO","Quercus","Chestnut oak",25.4,23
+"353","C6","CHO","Quercus","Chestnut oak",21.5,23
+"354","H3","CHO","Quercus","Chestnut oak",17.9,23
+"355","D4","CHO","Quercus","Chestnut oak",10.3,23
+"356","E6","CHO","Quercus","Chestnut oak",15.5,23
+"357","G6","CHO","Quercus","Chestnut oak",13.5,23
+"358","S5","CHO","Quercus","Chestnut oak",20.9,23
+"359","E6","CHO","Quercus","Chestnut oak",18.5,23
+"360","L3","CHO","Quercus","Chestnut oak",11.2,23
+"361","H5","CHO","Quercus","Chestnut oak",25.7,23
+"362","J6","CHO","Quercus","Chestnut oak",38.2,23
+"363","C6","CHO","Quercus","Chestnut oak",14.1,23
+"364","E6","CHO","Quercus","Chestnut oak",12.8,23
+"365","I5","CHO","Quercus","Chestnut oak",16.7,23
+"366","F6","CHO","Quercus","Chestnut oak",18.6,23
+"367","K5","CHO","Quercus","Chestnut oak",20.8,23
+"368","D4","CHO","Quercus","Chestnut oak",29.9,23
+"369","D1","CHO","Quercus","Chestnut oak",21,23
+"370","D4","CHO","Quercus","Chestnut oak",11.9,23
+"371","G4","CHO","Quercus","Chestnut oak",18.8,23
+"372","E4","CHO","Quercus","Chestnut oak",22.8,23
+"373","D1","CHO","Quercus","Chestnut oak",19.8,23
+"374","I6","CHO","Quercus","Chestnut oak",10.2,23
+"375","G3","CHO","Quercus","Chestnut oak",13.9,23
+"376","F4","CHO","Quercus","Chestnut oak",14.1,23
+"377","D5","CHO","Quercus","Chestnut oak",15.5,23
+"378","K5","CHO","Quercus","Chestnut oak",10.1,23
+"379","G5","CHO","Quercus","Chestnut oak",15.5,23
+"380","F3","CHO","Quercus","Chestnut oak",23.4,23
+"381","F4","CHO","Quercus","Chestnut oak",12.2,23
+"382","D1","CHO","Quercus","Chestnut oak",21.7,23
+"383","E7","CHO","Quercus","Chestnut oak",9.3,23
+"384","F4","CHO","Quercus","Chestnut oak",15.9,23
+"385","F4","CHO","Quercus","Chestnut oak",22,23
+"386","F5","CHO","Quercus","Chestnut oak",15.5,23
+"387","B5","CHO","Quercus","Chestnut oak",29.4,23
+"388","F4","CHO","Quercus","Chestnut oak",15.6,23
+"389","E4","CHO","Quercus","Chestnut oak",11.8,23
+"390","G7","CHO","Quercus","Chestnut oak",14.5,23
+"391","G6","CHO","Quercus","Chestnut oak",6.4,23
+"392","H3","CHO","Quercus","Chestnut oak",27.5,23
+"393","G7","CHO","Quercus","Chestnut oak",16.6,23
+"394","G5","CHO","Quercus","Chestnut oak",19.5,23
+"395","I5","CHO","Quercus","Chestnut oak",17.7,23
+"396","F3","CHO","Quercus","Chestnut oak",27.2,23
+"397","H3","CHO","Quercus","Chestnut oak",13.2,23
+"398","D4","CHO","Quercus","Chestnut oak",7.7,23
+"399","F4","CHO","Quercus","Chestnut oak",19.7,23
+"400","J6","CHO","Quercus","Chestnut oak",5.7,23
+"401","B5","CHO","Quercus","Chestnut oak",21.6,23
+"402","J6","CHO","Quercus","Chestnut oak",8.8,23
+"403","F5","CHO","Quercus","Chestnut oak",24.1,23
+"404","B4","CHO","Quercus","Chestnut oak",16.2,23
+"405","C4","CHO","Quercus","Chestnut oak",16.9,23
+"406","G3","CHO","Quercus","Chestnut oak",11.1,23
+"407","L3","CHO","Quercus","Chestnut oak",18.2,23
+"408","J5","CHO","Quercus","Chestnut oak",16.4,23
+"409","G3","CHO","Quercus","Chestnut oak",22.1,23
+"410","K5","CHO","Quercus","Chestnut oak",19.9,23
+"411","E3","CHO","Quercus","Chestnut oak",19.2,23
+"412","E4","CHO","Quercus","Chestnut oak",28.4,23
+"413","D6","CHO","Quercus","Chestnut oak",19,23
+"414","G5","CHO","Quercus","Chestnut oak",18.3,23
+"415","E7","CHO","Quercus","Chestnut oak",6.3,23
+"416","F4","CHO","Quercus","Chestnut oak",9.9,23
+"417","H5","CHO","Quercus","Chestnut oak",23.3,23
+"418","J6","CHO","Quercus","Chestnut oak",12.8,23
+"419","G5","CHO","Quercus","Chestnut oak",15.9,23
+"420","D5","CHO","Quercus","Chestnut oak",18.4,23
+"421","C4","CHO","Quercus","Chestnut oak",13.6,23
+"422","E6","CHO","Quercus","Chestnut oak",14.6,23
+"423","I6","CHO","Quercus","Chestnut oak",15.1,23
+"424","C4","CHO","Quercus","Chestnut oak",8.5,23
+"425","F4","CHO","Quercus","Chestnut oak",10.5,23
+"426","E5","CHO","Quercus","Chestnut oak",23.3,23
+"427","L3","CHO","Quercus","Chestnut oak",15.9,23
+"428","F3","CHO","Quercus","Chestnut oak",11.8,23
+"429","G5","CHO","Quercus","Chestnut oak",18.3,23
+"430","J6","CHO","Quercus","Chestnut oak",14.6,23
+"431","H3","CHO","Quercus","Chestnut oak",18.3,23
+"432","H4","CHO","Quercus","Chestnut oak",24.3,23
+"433","C4","CHO","Quercus","Chestnut oak",12.4,23
+"434","E4","CHO","Quercus","Chestnut oak",17.2,23
+"435","D7","CHO","Quercus","Chestnut oak",7,23
+"436","G5","CHO","Quercus","Chestnut oak",20.6,23
+"437","E6","CHO","Quercus","Chestnut oak",17.8,23
+"438","F4","CHO","Quercus","Chestnut oak",17.5,23
+"439","D6","CHO","Quercus","Chestnut oak",24.8,23
+"440","D7","CHO","Quercus","Chestnut oak",6.3,23
+"441","D3","CHO","Quercus","Chestnut oak",17.5,23
+"442","K5","CHO","Quercus","Chestnut oak",10.6,23
+"443","D5","CHO","Quercus","Chestnut oak",17.6,23
+"444","E4","CHO","Quercus","Chestnut oak",16.3,23
+"445","F7","CHO","Quercus","Chestnut oak",6.9,23
+"446","H5","CHO","Quercus","Chestnut oak",7.7,23
+"447","E7","CHO","Quercus","Chestnut oak",6.6,23
+"448","C4","CHO","Quercus","Chestnut oak",13.9,23
+"449","C4","CHO","Quercus","Chestnut oak",14.8,23
+"450","F3","CHO","Quercus","Chestnut oak",6.4,23
+"451","D7","CHO","Quercus","Chestnut oak",6,23
+"452","D6","CHO","Quercus","Chestnut oak",16.8,23
+"453","H4","CHO","Quercus","Chestnut oak",16.2,23
+"454","E4","CHO","Quercus","Chestnut oak",12.6,23
+"455","G3","CHO","Quercus","Chestnut oak",12.8,23
+"456","E4","CHO","Quercus","Chestnut oak",18.5,23
+"457","I5","CHO","Quercus","Chestnut oak",19.8,23
+"458","E1","CHO","Quercus","Chestnut oak",20.9,23
+"459","D5","CHO","Quercus","Chestnut oak",10.4,23
+"460","E6","CHO","Quercus","Chestnut oak",18.7,23
+"461","F2","CHO","Quercus","Chestnut oak",7.6,23
+"462","C4","CHO","Quercus","Chestnut oak",16.2,23
+"463","C4","CHO","Quercus","Chestnut oak",11,23
+"464","J5","CHO","Quercus","Chestnut oak",11.6,23
+"465","J5","CHO","Quercus","Chestnut oak",17.1,23
+"466","E7","CHO","Quercus","Chestnut oak",6,23
+"467","E6","CHO","Quercus","Chestnut oak",13,23
+"468","E4","CHO","Quercus","Chestnut oak",14.4,23
+"469","D3","CHO","Quercus","Chestnut oak",15.7,23
+"470","J6","CHO","Quercus","Chestnut oak",35.7,23
+"471","K6","CHO","Quercus","Chestnut oak",12.8,23
+"472","G4","CHO","Quercus","Chestnut oak",11.8,23
+"473","E4","CHO","Quercus","Chestnut oak",17.4,23
+"474","I6","CHO","Quercus","Chestnut oak",12.7,23
+"475","J3","CHO","Quercus","Chestnut oak",7.3,23
+"476","E4","CHO","Quercus","Chestnut oak",12.7,23
+"477","I6","CHO","Quercus","Chestnut oak",5.9,23
+"478","E6","CHO","Quercus","Chestnut oak",17.7,23
+"479","D4","CHO","Quercus","Chestnut oak",8.5,23
+"480","F4","CHO","Quercus","Chestnut oak",15.1,23
+"481","J5","CHO","Quercus","Chestnut oak",13.8,23
+"482","E7","CHO","Quercus","Chestnut oak",5.9,23
+"483","F4","CHO","Quercus","Chestnut oak",16.6,23
+"484","I6","CHO","Quercus","Chestnut oak",4.8,23
+"485","F6","CHO","Quercus","Chestnut oak",21.5,23
+"486","L5","CHO","Quercus","Chestnut oak",13.8,23
+"487","F4","CHO","Quercus","Chestnut oak",8.5,23
+"488","G6","CHO","Quercus","Chestnut oak",18.6,23
+"489","L5","CHO","Quercus","Chestnut oak",13.9,23
+"490","K6","CHO","Quercus","Chestnut oak",19.1,23
+"491","J6","CHO","Quercus","Chestnut oak",10.6,23
+"492","I6","CHO","Quercus","Chestnut oak",18.4,23
+"493","G7","CHO","Quercus","Chestnut oak",11.9,23
+"494","G3","CHO","Quercus","Chestnut oak",13,23
+"495","G6","CHO","Quercus","Chestnut oak",10.1,23
+"496","E7","CHO","Quercus","Chestnut oak",4.8,23
+"497","F7","CHO","Quercus","Chestnut oak",5.8,23
+"498","E7","CHO","Quercus","Chestnut oak",7.4,23
+"499","F7","CHO","Quercus","Chestnut oak",7.2,23
+"500","G3","CHO","Quercus","Chestnut oak",28.6,23
+"501","E6","CHO","Quercus","Chestnut oak",16.2,23
+"502","C6","CHO","Quercus","Chestnut oak",16.2,23
+"503","D6","CHO","Quercus","Chestnut oak",19.5,23
+"504","D4","CHO","Quercus","Chestnut oak",10.6,23
+"505","E4","CHO","Quercus","Chestnut oak",13.4,23
+"506","F6","CHO","Quercus","Chestnut oak",23.1,23
+"507","I2","CHO","Quercus","Chestnut oak",16.4,23
+"508","H6","CHO","Quercus","Chestnut oak",22,23
+"509","H4","CHO","Quercus","Chestnut oak",28,23
+"510","E6","CHO","Quercus","Chestnut oak",21.7,23
+"511","E6","CHO","Quercus","Chestnut oak",13.6,23
+"512","D4","CHO","Quercus","Chestnut oak",15.3,23
+"513","G7","CHO","Quercus","Chestnut oak",8.1,23
+"514","J6","CHO","Quercus","Chestnut oak",10.8,23
+"515","F5","CHO","Quercus","Chestnut oak",20,23
+"516","E4","CHO","Quercus","Chestnut oak",11.2,23
+"517","D7","CHO","Quercus","Chestnut oak",6.5,23
+"518","E3","CHO","Quercus","Chestnut oak",14.4,23
+"519","C4","CHO","Quercus","Chestnut oak",7.7,23
+"520","I5","CHO","Quercus","Chestnut oak",18,23
+"521","C4","CHO","Quercus","Chestnut oak",13.5,23
+"522","K5","CHO","Quercus","Chestnut oak",11.9,23
+"523","C5","CHO","Quercus","Chestnut oak",14.4,23
+"524","K5","CHO","Quercus","Chestnut oak",24.2,23
+"525","C6","CHO","Quercus","Chestnut oak",23.2,23
+"526","D1","CHO","Quercus","Chestnut oak",18.2,23
+"527","J5","CHO","Quercus","Chestnut oak",7.4,23
+"528","D4","CHO","Quercus","Chestnut oak",19.5,23
+"529","C6","CHO","Quercus","Chestnut oak",16.7,23
+"530","G6","CHO","Quercus","Chestnut oak",21.4,23
+"531","C6","CHO","Quercus","Chestnut oak",7.2,23
+"532","E4","CHO","Quercus","Chestnut oak",15.3,23
+"533","F6","CHO","Quercus","Chestnut oak",22.1,23
+"534","K5","CHO","Quercus","Chestnut oak",19.7,23
+"535","E3","CHO","Quercus","Chestnut oak",19.7,23
+"536","H4","CHO","Quercus","Chestnut oak",11.2,23
+"537","J5","CHO","Quercus","Chestnut oak",16.8,23
+"538","G3","CHO","Quercus","Chestnut oak",14.4,23
+"539","E7","CHO","Quercus","Chestnut oak",8.1,23
+"540","I6","CHO","Quercus","Chestnut oak",18.3,23
+"541","H4","CHO","Quercus","Chestnut oak",9.6,23
+"542","F6","CHO","Quercus","Chestnut oak",10.9,23
+"543","I6","CHO","Quercus","Chestnut oak",8.8,23
+"544","J5","CHO","Quercus","Chestnut oak",14.7,23
+"545","E7","CHO","Quercus","Chestnut oak",6.7,23
+"546","D4","CHO","Quercus","Chestnut oak",16,23
+"547","G5","CHO","Quercus","Chestnut oak",15.4,23
+"548","F4","CHO","Quercus","Chestnut oak",10.5,23
+"549","C4","CHO","Quercus","Chestnut oak",10.5,23
+"550","F4","CHO","Quercus","Chestnut oak",11.3,23
+"551","D4","CHO","Quercus","Chestnut oak",6.6,23
+"552","D4","CHO","Quercus","Chestnut oak",6.6,23
+"553","F6","CHO","Quercus","Chestnut oak",8.8,23
+"554","E3","CHO","Quercus","Chestnut oak",20.2,23
+"555","J6","CHO","Quercus","Chestnut oak",8.7,23
+"556","F7","CHO","Quercus","Chestnut oak",6.6,23
+"557","D1","CHO","Quercus","Chestnut oak",35,23
+"558","F6","CHO","Quercus","Chestnut oak",15.1,23
+"559","C4","CHO","Quercus","Chestnut oak",13,23
+"560","I6","CHO","Quercus","Chestnut oak",12.6,23
+"561","E3","CHO","Quercus","Chestnut oak",27.5,23
+"562","G5","CHO","Quercus","Chestnut oak",16.8,23
+"563","F7","CHO","Quercus","Chestnut oak",6,23
+"564","E7","CHO","Quercus","Chestnut oak",6.9,23
+"565","F3","CHO","Quercus","Chestnut oak",17.6,23
+"566","E3","CHO","Quercus","Chestnut oak",11.2,23
+"567","F6","CHO","Quercus","Chestnut oak",11.2,23
+"568","C4","CHO","Quercus","Chestnut oak",19.2,23
+"569","I6","CHO","Quercus","Chestnut oak",6.7,23
+"570","D4","CHO","Quercus","Chestnut oak",13,23
+"571","I6","CHO","Quercus","Chestnut oak",4.8,23
+"572","H4","CHO","Quercus","Chestnut oak",9.8,23
+"573","E7","CHO","Quercus","Chestnut oak",6,23
+"574","D4","CHO","Quercus","Chestnut oak",11.6,23
+"575","F6","CHO","Quercus","Chestnut oak",17.5,23
+"576","F7","CHO","Quercus","Chestnut oak",6.7,23
+"577","E6","CHO","Quercus","Chestnut oak",17.2,23
+"578","D6","CHO","Quercus","Chestnut oak",17.8,23
+"579","I6","CHO","Quercus","Chestnut oak",8.7,23
+"580","H3","CHO","Quercus","Chestnut oak",23.7,23
+"581","E6","CHO","Quercus","Chestnut oak",14.2,23
+"582","G6","CHO","Quercus","Chestnut oak",13.7,23
+"583","G7","CHO","Quercus","Chestnut oak",11.5,23
+"584","D7","CHO","Quercus","Chestnut oak",8.9,23
+"585","H4","CHO","Quercus","Chestnut oak",10.9,23
+"586","E4","CHO","Quercus","Chestnut oak",17.4,23
+"587","F6","CHO","Quercus","Chestnut oak",12.5,23
+"588","D7","CHO","Quercus","Chestnut oak",6.8,23
+"589","D6","CHO","Quercus","Chestnut oak",16.8,23
+"590","E4","CHO","Quercus","Chestnut oak",18.4,23
+"591","F7","CHO","Quercus","Chestnut oak",5.3,23
+"592","D1","CHO","Quercus","Chestnut oak",19.6,23
+"593","E7","CHO","Quercus","Chestnut oak",6.4,23
+"594","G5","CHO","Quercus","Chestnut oak",22.8,23
+"595","D6","CHO","Quercus","Chestnut oak",11.8,23
+"596","C4","CHO","Quercus","Chestnut oak",5.4,23
+"597","E7","CHO","Quercus","Chestnut oak",5.7,23
+"598","G3","CHO","Quercus","Chestnut oak",8.7,23
+"599","C6","CHO","Quercus","Chestnut oak",6.5,23
+"600","H4","CHO","Quercus","Chestnut oak",14.7,23
+"601","C4","CHO","Quercus","Chestnut oak",8,23
+"602","C6","CHO","Quercus","Chestnut oak",10.7,23
+"603","J6","CHO","Quercus","Chestnut oak",6.2,23
+"604","D7","CHO","Quercus","Chestnut oak",4.8,23
+"605","D5","CHO","Quercus","Chestnut oak",27.3,23
+"606","J6","CHO","Quercus","Chestnut oak",15.9,23
+"607","F7","CHO","Quercus","Chestnut oak",6.9,23
+"608","G4","CHO","Quercus","Chestnut oak",7.4,23
+"609","D1","CHO","Quercus","Chestnut oak",26.8,23
+"610","D6","CHO","Quercus","Chestnut oak",9.8,23
+"611","F7","CHO","Quercus","Chestnut oak",6.9,23
+"612","D7","CHO","Quercus","Chestnut oak",6.7,23
+"613","C4","CHO","Quercus","Chestnut oak",4.7,23
+"614","D5","CHO","Quercus","Chestnut oak",8.7,23
+"615","G2","CHO","Quercus","Chestnut oak",23.8,23
+"616","I6","CHO","Quercus","Chestnut oak",9.9,23
+"617","K6","CHO","Quercus","Chestnut oak",12.8,23
+"618","G4","CHO","Quercus","Chestnut oak",10.1,23
+"619","G6","CHO","Quercus","Chestnut oak",17.2,23
+"620","H4","CHO","Quercus","Chestnut oak",25.7,23
+"621","E4","CHO","Quercus","Chestnut oak",21.9,23
+"622","J6","CHO","Quercus","Chestnut oak",9,23
+"623","K5","CHO","Quercus","Chestnut oak",17.2,23
+"624","G6","CHO","Quercus","Chestnut oak",5.2,23
+"625","F7","CHO","Quercus","Chestnut oak",9.7,23
+"626","C4","CHO","Quercus","Chestnut oak",8.7,23
+"627","E4","CHO","Quercus","Chestnut oak",10.6,23
+"628","K5","CHO","Quercus","Chestnut oak",12.9,23
+"629","C4","CHO","Quercus","Chestnut oak",15.8,23
+"630","E6","CHO","Quercus","Chestnut oak",5.4,23
+"631","C4","CHO","Quercus","Chestnut oak",13.6,23
+"632","F3","CHO","Quercus","Chestnut oak",14.5,23
+"633","C4","CHO","Quercus","Chestnut oak",8.9,23
+"634","G6","CHO","Quercus","Chestnut oak",19.2,23
+"635","F7","CHO","Quercus","Chestnut oak",9.4,23
+"636","F4","CHO","Quercus","Chestnut oak",9.1,23
+"637","E6","CHO","Quercus","Chestnut oak",14,23
+"638","F6","CHO","Quercus","Chestnut oak",6.9,23
+"639","E5","CHO","Quercus","Chestnut oak",14.3,23
+"640","J5","CHO","Quercus","Chestnut oak",12.7,23
+"641","C6","CHO","Quercus","Chestnut oak",23.1,23
+"642","J6","CHO","Quercus","Chestnut oak",7.6,23
+"643","G7","CHO","Quercus","Chestnut oak",13.9,23
+"644","E7","CHO","Quercus","Chestnut oak",6.3,23
+"645","K5","CHO","Quercus","Chestnut oak",15.2,23
+"646","K5","CHO","Quercus","Chestnut oak",10.6,23
+"647","D5","CHO","Quercus","Chestnut oak",14.2,23
+"648","E7","CHO","Quercus","Chestnut oak",7.4,23
+"649","E6","CHO","Quercus","Chestnut oak",7.4,23
+"650","R5","CHO","Quercus","Chestnut oak",7.9,23
+"651","K5","CHO","Quercus","Chestnut oak",22.6,23
+"652","E7","CHO","Quercus","Chestnut oak",10.4,23
+"653","K5","CHO","Quercus","Chestnut oak",17.5,23
+"654","G7","CHO","Quercus","Chestnut oak",12,23
+"655","D1","CHO","Quercus","Chestnut oak",12.8,23
+"656","E7","CHO","Quercus","Chestnut oak",7.1,23
+"657","D6","CHO","Quercus","Chestnut oak",7.2,23
+"658","G3","CHO","Quercus","Chestnut oak",13.9,23
+"659","C4","CHO","Quercus","Chestnut oak",13.5,23
+"660","F4","CHO","Quercus","Chestnut oak",8,23
+"661","F5","CHO","Quercus","Chestnut oak",15.6,23
+"662","G4","CHO","Quercus","Chestnut oak",9.5,23
+"663","F7","CHO","Quercus","Chestnut oak",5.9,23
+"664","E3","CHO","Quercus","Chestnut oak",15.9,23
+"665","F6","CHO","Quercus","Chestnut oak",14.1,23
+"666","E4","CHO","Quercus","Chestnut oak",14.3,23
+"667","C4","CHO","Quercus","Chestnut oak",10.8,23
+"668","E4","CHO","Quercus","Chestnut oak",20,23
+"669","G6","CHO","Quercus","Chestnut oak",17.9,23
+"670","D4","CHO","Quercus","Chestnut oak",9,23
+"671","E7","CHO","Quercus","Chestnut oak",7.2,23
+"672","D3","CHO","Quercus","Chestnut oak",16.8,23
+"673","F4","CHO","Quercus","Chestnut oak",17.8,23
+"674","F7","CHO","Quercus","Chestnut oak",5.8,23
+"675","C4","CHO","Quercus","Chestnut oak",12,23
+"676","F4","CHO","Quercus","Chestnut oak",14.5,23
+"677","G6","CHO","Quercus","Chestnut oak",10.1,23
+"678","E4","CHO","Quercus","Chestnut oak",11.5,23
+"679","G6","CHO","Quercus","Chestnut oak",5.3,23
+"680","F7","CHO","Quercus","Chestnut oak",7,23
+"681","H5","CHO","Quercus","Chestnut oak",13.1,23
+"682","D6","CHO","Quercus","Chestnut oak",14.6,23
+"683","G6","CHO","Quercus","Chestnut oak",10,23
+"684","I5","CHO","Quercus","Chestnut oak",17.7,23
+"685","D6","CHO","Quercus","Chestnut oak",10.9,23
+"686","E6","CHO","Quercus","Chestnut oak",10.6,23
+"687","C4","CHO","Quercus","Chestnut oak",9.4,23
+"688","K5","CHO","Quercus","Chestnut oak",18.6,23
+"689","E6","CHO","Quercus","Chestnut oak",14.8,23
+"690","C4","CHO","Quercus","Chestnut oak",22.5,23
+"691","G7","CHO","Quercus","Chestnut oak",7.4,23
+"692","C4","CHO","Quercus","Chestnut oak",19,23
+"693","H3","CHO","Quercus","Chestnut oak",15.3,23
+"694","K4","ERB","Cercis","Eastern redbud",7.8,22
+"695","A6","EWP","Pinus","Eastern white pine",6.4,10
+"696","A6","EWP","Pinus","Eastern white pine",10,10
+"697","D5","FLD","Cornus","Flowering dogwood",5,20
+"698","I4","FLD","Cornus","Flowering dogwood",6,20
+"699","D7","FLD","Cornus","Flowering dogwood",5.7,20
+"700","M4","FLD","Cornus","Flowering dogwood",5.5,20
+"701","R6","FLD","Cornus","Flowering dogwood",5,20
+"702","G7","FLD","Cornus","Flowering dogwood",4.8,20
+"703","N4","FLD","Cornus","Flowering dogwood",5.5,20
+"704","J4","FLD","Cornus","Flowering dogwood",5,20
+"705","F2","FLD","Cornus","Flowering dogwood",5.2,20
+"706","I2","FLD","Cornus","Flowering dogwood",5.5,20
+"707","E4","FLD","Cornus","Flowering dogwood",5,20
+"708","F6","FLD","Cornus","Flowering dogwood",5.7,20
+"709","P6","FLD","Cornus","Flowering dogwood",4.9,20
+"710","J4","FLD","Cornus","Flowering dogwood",5.3,20
+"711","I4","FLD","Cornus","Flowering dogwood",8.1,20
+"712","I4","FLD","Cornus","Flowering dogwood",6.2,20
+"713","P4","GRA","Fraxinus","Green ash",13.7,28
+"714","Q7","HAC","Celtis","Hackberry",11.2,20
+"715","L3","IRO","Ostrya","Ironwood",4.6,19
+"716","J2","IRO","Ostrya","Ironwood",6,19
+"717","C7","IRO","Ostrya","Ironwood",6.7,19
+"718","I3","IRO","Ostrya","Ironwood",4.6,19
+"719","L4","IRO","Ostrya","Ironwood",7.2,19
+"720","M3","IRO","Ostrya","Ironwood",6,19
+"721","S5","IRO","Ostrya","Ironwood",4.6,19
+"722","L3","IRO","Ostrya","Ironwood",7.7,19
+"723","H3","JAP","Pinus","Jack pine",11.2,9
+"724","R6","MOH","Carya","Mockernut hickory",20.5,21
+"725","M3","MUS","Carpinus","Musclewood",4,19
+"726","F1","MUS","Carpinus","Musclewood",4.9,19
+"727","K3","MUS","Carpinus","Musclewood",5.1,19
+"728","M3","MUS","Carpinus","Musclewood",3.9,19
+"729","M3","MUS","Carpinus","Musclewood",3.6,19
+"730","H7","MUS","Carpinus","Musclewood",5,19
+"731","M3","MUS","Carpinus","Musclewood",6.2,19
+"732","Q4","MUS","Carpinus","Musclewood",5.5,19
+"733","F5","NRO","Quercus","Northern red oak",25.6,23
+"734","I5","NRO","Quercus","Northern red oak",14.8,23
+"735","B4","NRO","Quercus","Northern red oak",12.9,23
+"736","L5","NRO","Quercus","Northern red oak",15.3,23
+"737","F3","NRO","Quercus","Northern red oak",26.8,23
+"738","I2","NRO","Quercus","Northern red oak",22.1,23
+"739","I6","NRO","Quercus","Northern red oak",6,23
+"740","D1","NRO","Quercus","Northern red oak",18.9,23
+"741","C5","NRO","Quercus","Northern red oak",15.8,23
+"742","R5","NRO","Quercus","Northern red oak",12.2,23
+"743","F7","NRO","Quercus","Northern red oak",5.5,23
+"744","A6","NRO","Quercus","Northern red oak",8.8,23
+"745","E3","NRO","Quercus","Northern red oak",34.2,23
+"746","C7","NRO","Quercus","Northern red oak",4.6,23
+"747","G3","NRO","Quercus","Northern red oak",21.9,23
+"748","J5","NRO","Quercus","Northern red oak",14.6,23
+"749","A6","NRO","Quercus","Northern red oak",12.5,23
+"750","I5","NRO","Quercus","Northern red oak",13.5,23
+"751","E5","NRO","Quercus","Northern red oak",34.6,23
+"752","I6","NRO","Quercus","Northern red oak",5.3,23
+"753","C5","NRO","Quercus","Northern red oak",13.5,23
+"754","D5","NRO","Quercus","Northern red oak",5.3,23
+"755","M3","NRO","Quercus","Northern red oak",21.9,23
+"756","C7","NRO","Quercus","Northern red oak",5.3,23
+"757","I5","NRO","Quercus","Northern red oak",24.6,23
+"758","G7","NRO","Quercus","Northern red oak",15.3,23
+"759","O4","NRO","Quercus","Northern red oak",26.1,23
+"760","L4","NRO","Quercus","Northern red oak",23.5,23
+"761","F2","NRO","Quercus","Northern red oak",16.3,23
+"762","E5","NRO","Quercus","Northern red oak",8.8,23
+"763","Q6","NRO","Quercus","Northern red oak",28.5,23
+"764","C4","NRO","Quercus","Northern red oak",19.8,23
+"765","N4","NRO","Quercus","Northern red oak",21.3,23
+"766","B4","NRO","Quercus","Northern red oak",5.7,23
+"767","C7","NRO","Quercus","Northern red oak",11.7,23
+"768","L3","NRO","Quercus","Northern red oak",21.3,23
+"769","E3","NRO","Quercus","Northern red oak",16.9,23
+"770","B4","NRO","Quercus","Northern red oak",13,23
+"771","D3","NRO","Quercus","Northern red oak",22.4,23
+"772","L3","NRO","Quercus","Northern red oak",17,23
+"773","M4","NRO","Quercus","Northern red oak",21.8,23
+"774","K5","NRO","Quercus","Northern red oak",10.1,23
+"775","N4","NRO","Quercus","Northern red oak",21.6,23
+"776","I4","NRO","Quercus","Northern red oak",10.8,23
+"777","D3","NRO","Quercus","Northern red oak",20.3,23
+"778","H7","NRO","Quercus","Northern red oak",6.4,23
+"779","G4","NRO","Quercus","Northern red oak",23.4,23
+"780","A5","NRO","Quercus","Northern red oak",19,23
+"781","K5","NRO","Quercus","Northern red oak",19.7,23
+"782","G5","NRO","Quercus","Northern red oak",24.8,23
+"783","D3","NRO","Quercus","Northern red oak",17,23
+"784","G7","NRO","Quercus","Northern red oak",16.7,23
+"785","H7","NRO","Quercus","Northern red oak",14.1,23
+"786","L3","NRO","Quercus","Northern red oak",5.6,23
+"787","E3","NRO","Quercus","Northern red oak",15.2,23
+"788","P5","NRO","Quercus","Northern red oak",31.2,23
+"789","S5","NRO","Quercus","Northern red oak",24,23
+"790","B5","NRO","Quercus","Northern red oak",12.1,23
+"791","S5","NRO","Quercus","Northern red oak",21.3,23
+"792","Q5","NRO","Quercus","Northern red oak",7.4,23
+"793","G7","NRO","Quercus","Northern red oak",13,23
+"794","G3","NRO","Quercus","Northern red oak",25,23
+"795","F7","NRO","Quercus","Northern red oak",6.4,23
+"796","D3","NRO","Quercus","Northern red oak",26.7,23
+"797","E3","NRO","Quercus","Northern red oak",13.2,23
+"798","G5","NRO","Quercus","Northern red oak",28.6,23
+"799","C5","NRO","Quercus","Northern red oak",15.2,23
+"800","A5","NRO","Quercus","Northern red oak",21.3,23
+"801","D3","NRO","Quercus","Northern red oak",17.3,23
+"802","R5","NRO","Quercus","Northern red oak",28.3,23
+"803","D3","NRO","Quercus","Northern red oak",17.9,23
+"804","Q5","NRO","Quercus","Northern red oak",22,23
+"805","H4","NRO","Quercus","Northern red oak",19.3,23
+"806","J6","NRO","Quercus","Northern red oak",11.5,23
+"807","L5","NRO","Quercus","Northern red oak",29.9,23
+"808","L3","NRO","Quercus","Northern red oak",21,23
+"809","D4","NRO","Quercus","Northern red oak",22.3,23
+"810","F5","NRO","Quercus","Northern red oak",19.9,23
+"811","D3","NRO","Quercus","Northern red oak",25.9,23
+"812","H5","NRO","Quercus","Northern red oak",14.1,23
+"813","J3","NRO","Quercus","Northern red oak",10.6,23
+"814","F3","NRO","Quercus","Northern red oak",28,23
+"815","K5","NRO","Quercus","Northern red oak",8.4,23
+"816","L3","NRO","Quercus","Northern red oak",4.8,23
+"817","R5","NRO","Quercus","Northern red oak",12.5,23
+"818","Q7","NRO","Quercus","Northern red oak",9.8,23
+"819","D3","NRO","Quercus","Northern red oak",13.4,23
+"820","G2","NRO","Quercus","Northern red oak",20.7,23
+"821","C4","NRO","Quercus","Northern red oak",21.1,23
+"822","C7","NRO","Quercus","Northern red oak",4.6,23
+"823","L3","NRO","Quercus","Northern red oak",14.3,23
+"824","D1","NRO","Quercus","Northern red oak",19.6,23
+"825","M3","NRO","Quercus","Northern red oak",15.2,23
+"826","E7","NRO","Quercus","Northern red oak",5.6,23
+"827","H3","PIH","Carya","Pignut hickory",13.3,21
+"828","C5","PIH","Carya","Pignut hickory",11.4,21
+"829","H7","PIH","Carya","Pignut hickory",6.8,21
+"830","C5","PIH","Carya","Pignut hickory",7.1,21
+"831","C6","PIH","Carya","Pignut hickory",5.6,21
+"832","A5","PIH","Carya","Pignut hickory",9,21
+"833","H6","PIH","Carya","Pignut hickory",6.9,21
+"834","H7","PIH","Carya","Pignut hickory",10.6,21
+"835","L3","PIH","Carya","Pignut hickory",13.3,21
+"836","H6","PIH","Carya","Pignut hickory",7.1,21
+"837","J3","PIH","Carya","Pignut hickory",21.5,21
+"838","B5","PIH","Carya","Pignut hickory",10.2,21
+"839","G7","PIH","Carya","Pignut hickory",5.5,21
+"840","L3","PIH","Carya","Pignut hickory",6.8,21
+"841","J5","PIH","Carya","Pignut hickory",8.4,21
+"842","G6","PIH","Carya","Pignut hickory",17.8,21
+"843","K4","PIH","Carya","Pignut hickory",12,21
+"844","G4","PIH","Carya","Pignut hickory",9.1,21
+"845","Q5","PIH","Carya","Pignut hickory",13.7,21
+"846","B5","PIH","Carya","Pignut hickory",13.3,21
+"847","K4","PIH","Carya","Pignut hickory",10,21
+"848","H5","PIH","Carya","Pignut hickory",5.8,21
+"849","C5","PIH","Carya","Pignut hickory",23.7,21
+"850","C5","PIH","Carya","Pignut hickory",13.3,21
+"851","H6","PIH","Carya","Pignut hickory",11.1,21
+"852","B5","PIH","Carya","Pignut hickory",15.4,21
+"853","C5","PIH","Carya","Pignut hickory",12.5,21
+"854","J5","PIH","Carya","Pignut hickory",5,21
+"855","I6","PIH","Carya","Pignut hickory",11,21
+"856","H7","PIH","Carya","Pignut hickory",7.2,21
+"857","E6","PIH","Carya","Pignut hickory",8.5,21
+"858","C5","PIH","Carya","Pignut hickory",6.6,21
+"859","H6","PIH","Carya","Pignut hickory",4.6,21
+"860","J5","PIH","Carya","Pignut hickory",8.3,21
+"861","C5","PIH","Carya","Pignut hickory",7.9,21
+"862","B5","PIH","Carya","Pignut hickory",11.4,21
+"863","D6","PIH","Carya","Pignut hickory",7.8,21
+"864","B5","PIH","Carya","Pignut hickory",6.9,21
+"865","A6","PIH","Carya","Pignut hickory",6.6,21
+"866","J3","PIH","Carya","Pignut hickory",12,21
+"867","B5","PIH","Carya","Pignut hickory",9.9,21
+"868","H4","PIH","Carya","Pignut hickory",13,21
+"869","C5","PIH","Carya","Pignut hickory",7.1,21
+"870","J5","PIH","Carya","Pignut hickory",6.7,21
+"871","L3","PIH","Carya","Pignut hickory",8.5,21
+"872","J4","PIH","Carya","Pignut hickory",18.9,21
+"873","K6","PIH","Carya","Pignut hickory",9.3,21
+"874","S5","PIH","Carya","Pignut hickory",7.4,21
+"875","J5","PIH","Carya","Pignut hickory",9,21
+"876","E6","PIH","Carya","Pignut hickory",9.4,21
+"877","E6","PIH","Carya","Pignut hickory",12,21
+"878","G7","PIH","Carya","Pignut hickory",5.1,21
+"879","F6","PIH","Carya","Pignut hickory",9.4,21
+"880","I3","PIH","Carya","Pignut hickory",5.5,21
+"881","H2","PIH","Carya","Pignut hickory",13.4,21
+"882","H6","PIH","Carya","Pignut hickory",4.6,21
+"883","E7","PIH","Carya","Pignut hickory",5.5,21
+"884","J4","PIH","Carya","Pignut hickory",5.5,21
+"885","H6","PIH","Carya","Pignut hickory",12,21
+"886","H5","PIH","Carya","Pignut hickory",10.6,21
+"887","E3","PIH","Carya","Pignut hickory",7.6,21
+"888","H6","PIH","Carya","Pignut hickory",12.4,21
+"889","E3","PIH","Carya","Pignut hickory",5.9,21
+"890","H6","PIH","Carya","Pignut hickory",6.8,21
+"891","C5","PIH","Carya","Pignut hickory",12.6,21
+"892","D6","PIH","Carya","Pignut hickory",6.4,21
+"893","L4","PIH","Carya","Pignut hickory",14.4,21
+"894","G3","PIH","Carya","Pignut hickory",5.8,21
+"895","L3","PIH","Carya","Pignut hickory",5.2,21
+"896","E6","PIH","Carya","Pignut hickory",8,21
+"897","E7","PIH","Carya","Pignut hickory",10.9,21
+"898","H6","PIH","Carya","Pignut hickory",6,21
+"899","Q5","PIH","Carya","Pignut hickory",10.2,21
+"900","B5","PIH","Carya","Pignut hickory",8,21
+"901","E7","PIH","Carya","Pignut hickory",8.5,21
+"902","L3","PIH","Carya","Pignut hickory",5.6,21
+"903","E7","PIH","Carya","Pignut hickory",7.2,21
+"904","J3","PIH","Carya","Pignut hickory",15.2,21
+"905","H5","PIH","Carya","Pignut hickory",9.7,21
+"906","E1","PIH","Carya","Pignut hickory",12,21
+"907","I5","PIH","Carya","Pignut hickory",4.8,21
+"908","H6","PIH","Carya","Pignut hickory",5.8,21
+"909","L3","PIH","Carya","Pignut hickory",6.8,21
+"910","E3","PIH","Carya","Pignut hickory",15.9,21
+"911","K5","PIH","Carya","Pignut hickory",6.9,21
+"912","F6","PIH","Carya","Pignut hickory",12.1,21
+"913","M4","PIH","Carya","Pignut hickory",6.1,21
+"914","J6","PIH","Carya","Pignut hickory",5.2,21
+"915","B5","PIH","Carya","Pignut hickory",13.5,21
+"916","E1","PIH","Carya","Pignut hickory",8.3,21
+"917","H5","PIH","Carya","Pignut hickory",13.7,21
+"918","C5","PIH","Carya","Pignut hickory",12.8,21
+"919","L3","PIH","Carya","Pignut hickory",6.8,21
+"920","B4","PIH","Carya","Pignut hickory",10.4,21
+"921","L3","PIH","Carya","Pignut hickory",9.6,21
+"922","F6","PIH","Carya","Pignut hickory",15.3,21
+"923","K5","PIH","Carya","Pignut hickory",7.8,21
+"924","B5","PIH","Carya","Pignut hickory",8.6,21
+"925","S5","PIH","Carya","Pignut hickory",5.9,21
+"926","G5","PIH","Carya","Pignut hickory",20.5,21
+"927","M4","PIH","Carya","Pignut hickory",6.1,21
+"928","K6","PIH","Carya","Pignut hickory",22.9,21
+"929","H2","PIH","Carya","Pignut hickory",13.5,21
+"930","C5","PIH","Carya","Pignut hickory",14.3,21
+"931","D6","PIH","Carya","Pignut hickory",5,21
+"932","H5","PIH","Carya","Pignut hickory",6.3,21
+"933","C5","PIH","Carya","Pignut hickory",7.4,21
+"934","H6","PIH","Carya","Pignut hickory",12,21
+"935","C5","PIH","Carya","Pignut hickory",8,21
+"936","S5","PIH","Carya","Pignut hickory",10.2,21
+"937","B5","PIH","Carya","Pignut hickory",17.5,21
+"938","F6","PIH","Carya","Pignut hickory",4.8,21
+"939","Q5","PIH","Carya","Pignut hickory",10,21
+"940","E4","PIH","Carya","Pignut hickory",18.3,21
+"941","I3","PIH","Carya","Pignut hickory",21.4,21
+"942","Q6","PIH","Carya","Pignut hickory",21.8,21
+"943","B5","PIH","Carya","Pignut hickory",6.9,21
+"944","H7","PIH","Carya","Pignut hickory",5,21
+"945","A6","PIH","Carya","Pignut hickory",8.8,21
+"946","H5","PIH","Carya","Pignut hickory",9,21
+"947","K5","PIH","Carya","Pignut hickory",5.4,21
+"948","A6","PIH","Carya","Pignut hickory",9.1,21
+"949","B6","PIO","Quercus","Pin oak",18.1,23
+"950","B6","PIO","Quercus","Pin oak",19.6,23
+"951","B6","PIO","Quercus","Pin oak",14.6,23
+"952","B6","PIO","Quercus","Pin oak",17.1,23
+"953","B6","PIO","Quercus","Pin oak",12.4,23
+"954","B6","PIO","Quercus","Pin oak",9.8,23
+"955","C7","QUA","Populus","Quaking aspen",11.7,31
+"956","G2","REE","Ulmus","Red elm",13.9,20
+"957","F1","REE","Ulmus","Red elm",6.9,20
+"958","M4","REE","Ulmus","Red elm",10.6,20
+"959","C7","REE","Ulmus","Red elm",5.2,20
+"960","D1","REE","Ulmus","Red elm",10.5,20
+"961","R5","REE","Ulmus","Red elm",7.5,20
+"962","J2","REE","Ulmus","Red elm",4.7,20
+"963","Q4","REE","Ulmus","Red elm",5,20
+"964","J2","REE","Ulmus","Red elm",8.8,20
+"965","Q4","REE","Ulmus","Red elm",4.9,20
+"966","Q4","REE","Ulmus","Red elm",5.1,20
+"967","G2","REE","Ulmus","Red elm",8.8,20
+"968","M3","REE","Ulmus","Red elm",12.2,20
+"969","F1","REE","Ulmus","Red elm",6.9,20
+"970","J2","REE","Ulmus","Red elm",8,20
+"971","Q4","REE","Ulmus","Red elm",6.3,20
+"972","P4","REE","Ulmus","Red elm",6,20
+"973","J2","REE","Ulmus","Red elm",5,20
+"974","Q4","REE","Ulmus","Red elm",6,20
+"975","O4","REE","Ulmus","Red elm",12.6,20
+"976","K4","REE","Ulmus","Red elm",8.1,20
+"977","Q4","REE","Ulmus","Red elm",6.7,20
+"978","O5","REE","Ulmus","Red elm",5.1,20
+"979","Q4","REE","Ulmus","Red elm",7.8,20
+"980","J2","REE","Ulmus","Red elm",11.5,20
+"981","Q4","REE","Ulmus","Red elm",6.9,20
+"982","G2","REE","Ulmus","Red elm",7.5,20
+"983","Q4","REE","Ulmus","Red elm",8.4,20
+"984","F1","REE","Ulmus","Red elm",8.2,20
+"985","B5","REM","Acer","Red maple",16.9,14
+"986","H3","REM","Acer","Red maple",9.2,14
+"987","C4","REM","Acer","Red maple",5.5,14
+"988","B5","REM","Acer","Red maple",5.1,14
+"989","D3","REM","Acer","Red maple",7.7,14
+"990","G4","REM","Acer","Red maple",10.1,14
+"991","B5","REM","Acer","Red maple",4.9,14
+"992","G6","REM","Acer","Red maple",6.8,14
+"993","I6","REM","Acer","Red maple",8.8,14
+"994","E7","REM","Acer","Red maple",7.6,14
+"995","C4","REM","Acer","Red maple",5,14
+"996","D3","REM","Acer","Red maple",13.3,14
+"997","F6","REM","Acer","Red maple",5.6,14
+"998","E6","REM","Acer","Red maple",7.2,14
+"999","D7","REM","Acer","Red maple",5.2,14
+"1000","F3","REM","Acer","Red maple",8.6,14
+"1001","J5","REM","Acer","Red maple",6.6,14
+"1002","G4","REM","Acer","Red maple",6.5,14
+"1003","F6","REM","Acer","Red maple",8.2,14
+"1004","K3","REM","Acer","Red maple",8.2,14
+"1005","K6","REM","Acer","Red maple",6.8,14
+"1006","D3","REM","Acer","Red maple",6.1,14
+"1007","J4","REM","Acer","Red maple",15.1,14
+"1008","P6","REM","Acer","Red maple",10.8,14
+"1009","E7","REM","Acer","Red maple",5.5,14
+"1010","B5","REM","Acer","Red maple",7.5,14
+"1011","A6","REM","Acer","Red maple",11.3,14
+"1012","H5","REM","Acer","Red maple",7.3,14
+"1013","G4","REM","Acer","Red maple",8.4,14
+"1014","E3","REM","Acer","Red maple",6.5,14
+"1015","C6","REM","Acer","Red maple",7.3,14
+"1016","G5","REM","Acer","Red maple",7.1,14
+"1017","G4","REM","Acer","Red maple",7.1,14
+"1018","I6","REM","Acer","Red maple",7.7,14
+"1019","E3","REM","Acer","Red maple",8.7,14
+"1020","F2","REM","Acer","Red maple",13.2,14
+"1021","H5","REM","Acer","Red maple",13.1,14
+"1022","G6","REM","Acer","Red maple",7.1,14
+"1023","E3","REM","Acer","Red maple",7.4,14
+"1024","I4","REM","Acer","Red maple",13.2,14
+"1025","E7","REM","Acer","Red maple",5.9,14
+"1026","G6","REM","Acer","Red maple",4.6,14
+"1027","I2","REM","Acer","Red maple",8.9,14
+"1028","F7","REM","Acer","Red maple",6.6,14
+"1029","D7","REM","Acer","Red maple",5.1,14
+"1030","F2","REM","Acer","Red maple",9.2,14
+"1031","B5","REM","Acer","Red maple",5.3,14
+"1032","F4","REM","Acer","Red maple",4.8,14
+"1033","E3","REM","Acer","Red maple",6.5,14
+"1034","H6","REM","Acer","Red maple",4.9,14
+"1035","E7","REM","Acer","Red maple",7.7,14
+"1036","R6","REM","Acer","Red maple",12.3,14
+"1037","F4","REM","Acer","Red maple",6.3,14
+"1038","G5","REM","Acer","Red maple",6,14
+"1039","P6","REM","Acer","Red maple",6,14
+"1040","F4","REM","Acer","Red maple",8.4,14
+"1041","B5","REM","Acer","Red maple",7.7,14
+"1042","D3","REM","Acer","Red maple",6.9,14
+"1043","J6","REM","Acer","Red maple",4.9,14
+"1044","F6","REM","Acer","Red maple",4.8,14
+"1045","F7","REM","Acer","Red maple",5.3,14
+"1046","P6","REM","Acer","Red maple",5.2,14
+"1047","E7","REM","Acer","Red maple",5.3,14
+"1048","F7","REM","Acer","Red maple",5.1,14
+"1049","E5","REM","Acer","Red maple",6.5,14
+"1050","I4","REM","Acer","Red maple",6.1,14
+"1051","E7","REM","Acer","Red maple",5.4,14
+"1052","G6","REM","Acer","Red maple",5.5,14
+"1053","B5","REM","Acer","Red maple",8.4,14
+"1054","F2","REM","Acer","Red maple",9.4,14
+"1055","E3","REM","Acer","Red maple",6.5,14
+"1056","H5","REM","Acer","Red maple",7.4,14
+"1057","G4","REM","Acer","Red maple",9.8,14
+"1058","C6","REM","Acer","Red maple",5.7,14
+"1059","F7","REM","Acer","Red maple",7.3,14
+"1060","E3","REM","Acer","Red maple",9.2,14
+"1061","I2","REM","Acer","Red maple",4.7,14
+"1062","G5","REM","Acer","Red maple",6.7,14
+"1063","G4","REM","Acer","Red maple",10.5,14
+"1064","D5","REM","Acer","Red maple",6.3,14
+"1065","D4","REM","Acer","Red maple",4.8,14
+"1066","G6","REM","Acer","Red maple",6.4,14
+"1067","I4","REM","Acer","Red maple",7.7,14
+"1068","I4","REM","Acer","Red maple",16.5,14
+"1069","E6","REM","Acer","Red maple",10,14
+"1070","I6","REM","Acer","Red maple",7.5,14
+"1071","G6","REM","Acer","Red maple",7.9,14
+"1072","H5","REM","Acer","Red maple",4.8,14
+"1073","A6","REM","Acer","Red maple",5.1,14
+"1074","F7","REM","Acer","Red maple",6.6,14
+"1075","F1","REM","Acer","Red maple",14.7,14
+"1076","R6","REM","Acer","Red maple",11.2,14
+"1077","P6","REM","Acer","Red maple",6,14
+"1078","F6","REM","Acer","Red maple",6.1,14
+"1079","L5","REM","Acer","Red maple",8,14
+"1080","F2","REM","Acer","Red maple",6.5,14
+"1081","F2","REM","Acer","Red maple",6.5,14
+"1082","K4","REM","Acer","Red maple",7.3,14
+"1083","E3","REM","Acer","Red maple",7.9,14
+"1084","F3","REM","Acer","Red maple",5.7,14
+"1085","J5","REM","Acer","Red maple",6.8,14
+"1086","B5","REM","Acer","Red maple",5.6,14
+"1087","S5","REM","Acer","Red maple",5.8,14
+"1088","F7","REM","Acer","Red maple",4.8,14
+"1089","F2","REM","Acer","Red maple",11.2,14
+"1090","C4","REM","Acer","Red maple",4.7,14
+"1091","F6","REM","Acer","Red maple",5.3,14
+"1092","C6","REM","Acer","Red maple",7.1,14
+"1093","F7","REM","Acer","Red maple",5.3,14
+"1094","C5","REM","Acer","Red maple",6.4,14
+"1095","D7","REM","Acer","Red maple",6.3,14
+"1096","R6","REM","Acer","Red maple",5.5,14
+"1097","D3","REM","Acer","Red maple",8.1,14
+"1098","F7","REM","Acer","Red maple",6.6,14
+"1099","E7","REM","Acer","Red maple",8,14
+"1100","E3","REM","Acer","Red maple",5.5,14
+"1101","B4","REM","Acer","Red maple",6.5,14
+"1102","E3","REM","Acer","Red maple",7.6,14
+"1103","F6","REM","Acer","Red maple",10.1,14
+"1104","C4","REM","Acer","Red maple",8,14
+"1105","B5","REM","Acer","Red maple",5.9,14
+"1106","S5","REM","Acer","Red maple",13.5,14
+"1107","E6","REM","Acer","Red maple",5.5,14
+"1108","F7","REM","Acer","Red maple",5.8,14
+"1109","I2","REM","Acer","Red maple",8.9,14
+"1110","I3","REM","Acer","Red maple",8.5,14
+"1111","G2","REM","Acer","Red maple",16,14
+"1112","C7","REM","Acer","Red maple",11.3,14
+"1113","H5","REM","Acer","Red maple",9.9,14
+"1114","I6","REM","Acer","Red maple",7.1,14
+"1115","D3","REM","Acer","Red maple",6.1,14
+"1116","H7","REM","Acer","Red maple",7.3,14
+"1117","E6","REM","Acer","Red maple",5.5,14
+"1118","I3","REM","Acer","Red maple",7.3,14
+"1119","I2","REM","Acer","Red maple",8,14
+"1120","C4","REM","Acer","Red maple",5.2,14
+"1121","I4","REM","Acer","Red maple",7.3,14
+"1122","D3","REM","Acer","Red maple",6.3,14
+"1123","G7","REM","Acer","Red maple",6.4,14
+"1124","L5","REM","Acer","Red maple",16.1,14
+"1125","F6","REM","Acer","Red maple",4.8,14
+"1126","M3","REM","Acer","Red maple",9.8,14
+"1127","A6","REM","Acer","Red maple",5.6,14
+"1128","E5","REM","Acer","Red maple",11.8,14
+"1129","F7","REM","Acer","Red maple",6.1,14
+"1130","F3","REM","Acer","Red maple",10.9,14
+"1131","Q6","REM","Acer","Red maple",5.7,14
+"1132","A5","REM","Acer","Red maple",16.6,14
+"1133","F4","REM","Acer","Red maple",5.5,14
+"1134","O4","REM","Acer","Red maple",17.2,14
+"1135","I6","REM","Acer","Red maple",7.2,14
+"1136","F7","REM","Acer","Red maple",5.1,14
+"1137","H5","REM","Acer","Red maple",5.8,14
+"1138","F7","REM","Acer","Red maple",6.6,14
+"1139","D7","REM","Acer","Red maple",4.8,14
+"1140","F6","REM","Acer","Red maple",5.6,14
+"1141","O5","REM","Acer","Red maple",26.8,14
+"1142","G7","REM","Acer","Red maple",7.1,14
+"1143","G6","REM","Acer","Red maple",5.6,14
+"1144","H4","REM","Acer","Red maple",7,14
+"1145","S5","REM","Acer","Red maple",6.6,14
+"1146","B5","REM","Acer","Red maple",5.5,14
+"1147","C4","REM","Acer","Red maple",5.8,14
+"1148","F6","REM","Acer","Red maple",7.7,14
+"1149","A5","REM","Acer","Red maple",10,14
+"1150","F6","REM","Acer","Red maple",6.1,14
+"1151","D3","REM","Acer","Red maple",10.1,14
+"1152","F4","REM","Acer","Red maple",5.1,14
+"1153","F6","REM","Acer","Red maple",6,14
+"1154","I3","REM","Acer","Red maple",9,14
+"1155","D7","REM","Acer","Red maple",5.9,14
+"1156","O4","REM","Acer","Red maple",8.7,14
+"1157","H4","REM","Acer","Red maple",7.5,14
+"1158","I3","REM","Acer","Red maple",8.4,14
+"1159","C7","REM","Acer","Red maple",5.7,14
+"1160","F6","REM","Acer","Red maple",8,14
+"1161","I6","REM","Acer","Red maple",4.9,14
+"1162","F6","REM","Acer","Red maple",7.8,14
+"1163","F1","REM","Acer","Red maple",10.3,14
+"1164","D4","REM","Acer","Red maple",7.6,14
+"1165","I6","REM","Acer","Red maple",9.5,14
+"1166","B4","REM","Acer","Red maple",5.7,14
+"1167","F7","REM","Acer","Red maple",5.2,14
+"1168","E7","REM","Acer","Red maple",6.2,14
+"1169","I6","REM","Acer","Red maple",4.7,14
+"1170","F6","REM","Acer","Red maple",7.6,14
+"1171","G6","REM","Acer","Red maple",5.5,14
+"1172","G4","REM","Acer","Red maple",8.1,14
+"1173","B5","REM","Acer","Red maple",7.5,14
+"1174","F6","REM","Acer","Red maple",4.7,14
+"1175","B5","REM","Acer","Red maple",5.8,14
+"1176","H5","REM","Acer","Red maple",5,14
+"1177","K6","REM","Acer","Red maple",10.7,14
+"1178","S5","REM","Acer","Red maple",9.6,14
+"1179","F1","REM","Acer","Red maple",13,14
+"1180","B4","REM","Acer","Red maple",8.9,14
+"1181","H6","REM","Acer","Red maple",6,14
+"1182","S5","REM","Acer","Red maple",6.9,14
+"1183","F7","REM","Acer","Red maple",7,14
+"1184","H6","REM","Acer","Red maple",6.6,14
+"1185","G7","REM","Acer","Red maple",7.3,14
+"1186","F3","REM","Acer","Red maple",7.4,14
+"1187","C4","REM","Acer","Red maple",5.1,14
+"1188","G2","REM","Acer","Red maple",16,14
+"1189","F7","REM","Acer","Red maple",6.4,14
+"1190","K4","REM","Acer","Red maple",5.8,14
+"1191","D6","REM","Acer","Red maple",7.5,14
+"1192","C7","REM","Acer","Red maple",5.2,14
+"1193","B6","REP","Pinus","Red pine",5.4,9
+"1194","A6","REP","Pinus","Red pine",7.1,9
+"1195","A6","REP","Pinus","Red pine",7.7,9
+"1196","E4","SAS","Sassafras","Sassafras",4.8,20
+"1197","C1","SAS","Sassafras","Sassafras",10.1,20
+"1198","D1","SAS","Sassafras","Sassafras",12.6,20
+"1199","I3","SAS","Sassafras","Sassafras",6.2,20
+"1200","Q6","SAS","Sassafras","Sassafras",11.5,20
+"1201","H5","SAS","Sassafras","Sassafras",10.3,20
+"1202","R6","SAS","Sassafras","Sassafras",14.5,20
+"1203","E6","SAS","Sassafras","Sassafras",4.8,20
+"1204","L4","SAS","Sassafras","Sassafras",14.6,20
+"1205","E1","SAS","Sassafras","Sassafras",12,20
+"1206","I6","SAS","Sassafras","Sassafras",5.1,20
+"1207","F2","SAS","Sassafras","Sassafras",7.9,20
+"1208","C1","SAS","Sassafras","Sassafras",17.2,20
+"1209","I4","SAS","Sassafras","Sassafras",10.4,20
+"1210","I4","SAS","Sassafras","Sassafras",6.2,20
+"1211","C1","SAS","Sassafras","Sassafras",10,20
+"1212","C1","SAS","Sassafras","Sassafras",11.4,20
+"1213","E5","SAS","Sassafras","Sassafras",13.9,20
+"1214","H3","SAS","Sassafras","Sassafras",12.2,20
+"1215","E5","SAS","Sassafras","Sassafras",11.9,20
+"1216","J4","SAS","Sassafras","Sassafras",12.3,20
+"1217","B5","SAS","Sassafras","Sassafras",9.9,20
+"1218","Q7","SAS","Sassafras","Sassafras",15.4,20
+"1219","R6","SAS","Sassafras","Sassafras",4.7,20
+"1220","Q6","SAS","Sassafras","Sassafras",19.3,20
+"1221","I3","SAS","Sassafras","Sassafras",7.5,20
+"1222","H5","SAS","Sassafras","Sassafras",10,20
+"1223","K4","SAS","Sassafras","Sassafras",11.9,20
+"1224","C5","SAS","Sassafras","Sassafras",7.3,20
+"1225","E5","SAS","Sassafras","Sassafras",8.6,20
+"1226","E5","SAS","Sassafras","Sassafras",11.3,20
+"1227","F1","SAS","Sassafras","Sassafras",11.7,20
+"1228","Q7","SAS","Sassafras","Sassafras",15.1,20
+"1229","E5","SAS","Sassafras","Sassafras",11.6,20
+"1230","E5","SAS","Sassafras","Sassafras",8.1,20
+"1231","J4","SAS","Sassafras","Sassafras",11.7,20
+"1232","Q7","SAS","Sassafras","Sassafras",14.9,20
+"1233","C1","SAS","Sassafras","Sassafras",12,20
+"1234","E5","SAS","Sassafras","Sassafras",10.5,20
+"1235","P6","SAS","Sassafras","Sassafras",12.8,20
+"1236","E5","SAS","Sassafras","Sassafras",15.5,20
+"1237","P5","SAS","Sassafras","Sassafras",15.2,20
+"1238","C5","SAS","Sassafras","Sassafras",12,20
+"1239","B4","SAS","Sassafras","Sassafras",9.5,20
+"1240","P6","SAS","Sassafras","Sassafras",7.8,20
+"1241","G5","SAS","Sassafras","Sassafras",12.3,20
+"1242","C6","SAS","Sassafras","Sassafras",5.5,20
+"1243","H6","SAS","Sassafras","Sassafras",6.9,20
+"1244","E7","SAS","Sassafras","Sassafras",6.2,20
+"1245","E5","SAS","Sassafras","Sassafras",12.4,20
+"1246","G4","SAS","Sassafras","Sassafras",8.4,20
+"1247","C1","SAS","Sassafras","Sassafras",9.6,20
+"1248","N4","SAS","Sassafras","Sassafras",8.5,20
+"1249","I4","SAS","Sassafras","Sassafras",7,20
+"1250","H3","SAS","Sassafras","Sassafras",7.6,20
+"1251","C5","SAS","Sassafras","Sassafras",5.5,20
+"1252","E7","SAS","Sassafras","Sassafras",6.2,20
+"1253","Q7","SAS","Sassafras","Sassafras",13.3,20
+"1254","M4","SAS","Sassafras","Sassafras",14.6,20
+"1255","F1","SAS","Sassafras","Sassafras",8.4,20
+"1256","I4","SAS","Sassafras","Sassafras",7.4,20
+"1257","E5","SAS","Sassafras","Sassafras",12.1,20
+"1258","J4","SAS","Sassafras","Sassafras",8.5,20
+"1259","B6","SAS","Sassafras","Sassafras",4.8,20
+"1260","F2","SAS","Sassafras","Sassafras",9.4,20
+"1261","Q7","SAS","Sassafras","Sassafras",15.7,20
+"1262","I4","SAS","Sassafras","Sassafras",8.7,20
+"1263","J4","SAS","Sassafras","Sassafras",11.5,20
+"1264","K6","SAS","Sassafras","Sassafras",7.5,20
+"1265","E5","SAS","Sassafras","Sassafras",10.9,20
+"1266","B4","SAS","Sassafras","Sassafras",11.1,20
+"1267","J4","SAS","Sassafras","Sassafras",8.5,20
+"1268","C1","SAS","Sassafras","Sassafras",13.9,20
+"1269","F7","SAS","Sassafras","Sassafras",6.3,20
+"1270","E5","SAS","Sassafras","Sassafras",14.3,20
+"1271","E5","SAS","Sassafras","Sassafras",14.7,20
+"1272","F7","SAS","Sassafras","Sassafras",5.7,20
+"1273","Q7","SAS","Sassafras","Sassafras",11.4,20
+"1274","Q7","SAS","Sassafras","Sassafras",13.5,20
+"1275","I3","SAS","Sassafras","Sassafras",8.5,20
+"1276","B5","SAS","Sassafras","Sassafras",9.8,20
+"1277","I4","SAS","Sassafras","Sassafras",8.5,20
+"1278","P5","SAS","Sassafras","Sassafras",6.1,20
+"1279","D5","SAS","Sassafras","Sassafras",11.5,20
+"1280","I4","SAS","Sassafras","Sassafras",11,20
+"1281","F7","SAS","Sassafras","Sassafras",8,20
+"1282","P5","SAS","Sassafras","Sassafras",14.3,20
+"1283","B4","SAS","Sassafras","Sassafras",10.4,20
+"1284","F2","SAS","Sassafras","Sassafras",13,20
+"1285","Q7","SAS","Sassafras","Sassafras",16.7,20
+"1286","B6","SAS","Sassafras","Sassafras",5.4,20
+"1287","B5","SAS","Sassafras","Sassafras",12.7,20
+"1288","C1","SAS","Sassafras","Sassafras",12.8,20
+"1289","B6","SAS","Sassafras","Sassafras",6.1,20
+"1290","P6","SAS","Sassafras","Sassafras",10.4,20
+"1291","Q6","SAS","Sassafras","Sassafras",14.7,20
+"1292","I3","SAS","Sassafras","Sassafras",8.8,20
+"1293","E5","SAS","Sassafras","Sassafras",8.6,20
+"1294","I3","SAS","Sassafras","Sassafras",6.8,20
+"1295","D5","SAS","Sassafras","Sassafras",17.1,20
+"1296","C1","SAS","Sassafras","Sassafras",11.3,20
+"1297","H3","SAS","Sassafras","Sassafras",7.2,20
+"1298","C1","SAS","Sassafras","Sassafras",10.1,20
+"1299","N4","SAS","Sassafras","Sassafras",6.1,20
+"1300","H5","SAS","Sassafras","Sassafras",6.2,20
+"1301","I4","SAS","Sassafras","Sassafras",6.6,20
+"1302","Q7","SAS","Sassafras","Sassafras",15.3,20
+"1303","J4","SAS","Sassafras","Sassafras",7.4,20
+"1304","R6","SAS","Sassafras","Sassafras",8.3,20
+"1305","I3","SAS","Sassafras","Sassafras",6.8,20
+"1306","K4","SAS","Sassafras","Sassafras",14.4,20
+"1307","D1","SAS","Sassafras","Sassafras",9.5,20
+"1308","F7","SAS","Sassafras","Sassafras",5.6,20
+"1309","R5","SAS","Sassafras","Sassafras",12.5,20
+"1310","F2","SAS","Sassafras","Sassafras",9.6,20
+"1311","C1","SAS","Sassafras","Sassafras",10.4,20
+"1312","Q7","SAS","Sassafras","Sassafras",14.5,20
+"1313","F2","SAS","Sassafras","Sassafras",8.5,20
+"1314","F6","SAS","Sassafras","Sassafras",4.8,20
+"1315","C6","SAS","Sassafras","Sassafras",13.2,20
+"1316","F2","SAS","Sassafras","Sassafras",12.4,20
+"1317","E5","SAS","Sassafras","Sassafras",12.1,20
+"1318","B6","SAS","Sassafras","Sassafras",5.2,20
+"1319","G2","SAS","Sassafras","Sassafras",21.5,20
+"1320","B6","SAS","Sassafras","Sassafras",5.7,20
+"1321","I4","SAS","Sassafras","Sassafras",9.6,20
+"1322","K4","SAS","Sassafras","Sassafras",9.1,20
+"1323","E1","SAS","Sassafras","Sassafras",13.5,20
+"1324","P6","SAS","Sassafras","Sassafras",13.3,20
+"1325","I4","SAS","Sassafras","Sassafras",10.2,20
+"1326","E1","SAS","Sassafras","Sassafras",10.5,20
+"1327","E5","SAS","Sassafras","Sassafras",7.1,20
+"1328","K4","SAS","Sassafras","Sassafras",12.8,20
+"1329","I4","SAS","Sassafras","Sassafras",10.2,20
+"1330","I3","SAS","Sassafras","Sassafras",8.7,20
+"1331","I4","SAS","Sassafras","Sassafras",10.8,20
+"1332","F7","SAS","Sassafras","Sassafras",5,20
+"1333","P5","SAS","Sassafras","Sassafras",9.4,20
+"1334","F2","SAS","Sassafras","Sassafras",6.5,20
+"1335","F2","SAS","Sassafras","Sassafras",6.2,20
+"1336","C6","SAS","Sassafras","Sassafras",6.4,20
+"1337","Q7","SAS","Sassafras","Sassafras",13.2,20
+"1338","G6","SAS","Sassafras","Sassafras",4.6,20
+"1339","B6","SAS","Sassafras","Sassafras",5.9,20
+"1340","I3","SAS","Sassafras","Sassafras",8.7,20
+"1341","F2","SAS","Sassafras","Sassafras",10.7,20
+"1342","G4","SAS","Sassafras","Sassafras",5.1,20
+"1343","Q5","SAS","Sassafras","Sassafras",15.3,20
+"1344","F2","SAS","Sassafras","Sassafras",8.3,20
+"1345","F6","SAS","Sassafras","Sassafras",5.1,20
+"1346","A6","SCO","Quercus","Scarlet oak",7.5,23
+"1347","H5","SCO","Quercus","Scarlet oak",18.7,23
+"1348","A6","SCO","Quercus","Scarlet oak",11.8,23
+"1349","G4","SCO","Quercus","Scarlet oak",15,23
+"1350","C6","SCO","Quercus","Scarlet oak",8.5,23
+"1351","A6","SCO","Quercus","Scarlet oak",17,23
+"1352","B6","SCO","Quercus","Scarlet oak",20.2,23
+"1353","A6","SCO","Quercus","Scarlet oak",8.6,23
+"1354","A6","SCO","Quercus","Scarlet oak",15.1,23
+"1355","A6","SCO","Quercus","Scarlet oak",14.4,23
+"1356","C6","SCO","Quercus","Scarlet oak",24.5,23
+"1357","D7","SCO","Quercus","Scarlet oak",7.7,23
+"1358","D7","SCO","Quercus","Scarlet oak",10,23
+"1359","A6","SCO","Quercus","Scarlet oak",6.7,23
+"1360","A6","SCO","Quercus","Scarlet oak",8.8,23
+"1361","C6","SCO","Quercus","Scarlet oak",5.4,23
+"1362","H6","SCO","Quercus","Scarlet oak",14.9,23
+"1363","D4","SCO","Quercus","Scarlet oak",22.3,23
+"1364","D7","SCO","Quercus","Scarlet oak",7.5,23
+"1365","C6","SCO","Quercus","Scarlet oak",14.5,23
+"1366","D4","SCO","Quercus","Scarlet oak",19,23
+"1367","E7","SCO","Quercus","Scarlet oak",7.6,23
+"1368","F7","SCO","Quercus","Scarlet oak",7.4,23
+"1369","A6","SCO","Quercus","Scarlet oak",9.8,23
+"1370","F7","SCO","Quercus","Scarlet oak",5.5,23
+"1371","B6","SCO","Quercus","Scarlet oak",5.1,23
+"1372","A6","SCO","Quercus","Scarlet oak",18.9,23
+"1373","F7","SCO","Quercus","Scarlet oak",5.7,23
+"1374","A6","SCO","Quercus","Scarlet oak",9.4,23
+"1375","G7","SCO","Quercus","Scarlet oak",9.1,23
+"1376","C6","SCO","Quercus","Scarlet oak",20.5,23
+"1377","A6","SCO","Quercus","Scarlet oak",7.2,23
+"1378","A6","SCO","Quercus","Scarlet oak",6.5,23
+"1379","G4","SCO","Quercus","Scarlet oak",26.2,23
+"1380","A6","SCO","Quercus","Scarlet oak",12.3,23
+"1381","E3","SCO","Quercus","Scarlet oak",22.2,23
+"1382","F7","SCO","Quercus","Scarlet oak",6.7,23
+"1383","A6","SCO","Quercus","Scarlet oak",17.4,23
+"1384","A6","SCO","Quercus","Scarlet oak",7.5,23
+"1385","G7","SCO","Quercus","Scarlet oak",18.7,23
+"1386","M4","SHH","Carya","Shagbark hickory",8.9,21
+"1387","H7","SHH","Carya","Shagbark hickory",10,21
+"1388","L4","SHH","Carya","Shagbark hickory",13,21
+"1389","F1","SHH","Carya","Shagbark hickory",7.4,21
+"1390","L4","SHH","Carya","Shagbark hickory",12.5,21
+"1391","K5","SHH","Carya","Shagbark hickory",5.2,21
+"1392","L3","SHH","Carya","Shagbark hickory",5.2,21
+"1393","J3","SHH","Carya","Shagbark hickory",11.7,21
+"1394","K4","SHH","Carya","Shagbark hickory",15,21
+"1395","M4","SHH","Carya","Shagbark hickory",14.5,21
+"1396","J3","SHH","Carya","Shagbark hickory",8,21
+"1397","I3","SHH","Carya","Shagbark hickory",13.9,21
+"1398","C5","SHH","Carya","Shagbark hickory",6.4,21
+"1399","H7","SHH","Carya","Shagbark hickory",11,21
+"1400","H7","SHH","Carya","Shagbark hickory",11.4,21
+"1401","L4","SHH","Carya","Shagbark hickory",10.4,21
+"1402","D1","SHH","Carya","Shagbark hickory",8.6,21
+"1403","M4","SHH","Carya","Shagbark hickory",14.4,21
+"1404","L4","SHH","Carya","Shagbark hickory",12.3,21
+"1405","H2","SHH","Carya","Shagbark hickory",11.2,21
+"1406","C1","SHH","Carya","Shagbark hickory",15.8,21
+"1407","E1","SHH","Carya","Shagbark hickory",14.5,21
+"1408","L4","SHH","Carya","Shagbark hickory",6.3,21
+"1409","F6","SHH","Carya","Shagbark hickory",5.4,21
+"1410","C5","SHH","Carya","Shagbark hickory",10,21
+"1411","L3","SHH","Carya","Shagbark hickory",13.9,21
+"1412","E1","SHH","Carya","Shagbark hickory",13.5,21
+"1413","H3","SHH","Carya","Shagbark hickory",13.7,21
+"1414","J3","SHH","Carya","Shagbark hickory",10.8,21
+"1415","M4","SHH","Carya","Shagbark hickory",6.1,21
+"1416","B6","SHH","Carya","Shagbark hickory",7.2,21
+"1417","J3","SHH","Carya","Shagbark hickory",8.2,21
+"1418","C5","SHH","Carya","Shagbark hickory",5.3,21
+"1419","I5","SHH","Carya","Shagbark hickory",6.4,21
+"1420","D1","SHH","Carya","Shagbark hickory",7.8,21
+"1421","B6","SHH","Carya","Shagbark hickory",5.6,21
+"1422","L3","SHH","Carya","Shagbark hickory",8.4,21
+"1423","L4","SHH","Carya","Shagbark hickory",13.9,21
+"1424","J3","SHH","Carya","Shagbark hickory",10.1,21
+"1425","J5","SHH","Carya","Shagbark hickory",6.2,21
+"1426","J3","SHH","Carya","Shagbark hickory",8.8,21
+"1427","L3","SHH","Carya","Shagbark hickory",9,21
+"1428","F7","SMC","Rhus","Sumac species",5.8,20
+"1429","F7","SMC","Rhus","Sumac species",5.2,20
+"1430","J3","SUM","Acer","Sugar maple",5.6,15
+"1431","O4","SUM","Acer","Sugar maple",13.4,15
+"1432","G2","SUM","Acer","Sugar maple",13.9,15
+"1433","H4","SUM","Acer","Sugar maple",9.4,15
+"1434","Q7","SUM","Acer","Sugar maple",9.6,15
+"1435","G2","SUM","Acer","Sugar maple",8.3,15
+"1436","E1","SUM","Acer","Sugar maple",11.4,15
+"1437","N4","SUM","Acer","Sugar maple",9.2,15
+"1438","J3","SUM","Acer","Sugar maple",8.5,15
+"1439","Q4","SUM","Acer","Sugar maple",19.5,15
+"1440","N4","SUM","Acer","Sugar maple",9.3,15
+"1441","E1","SUM","Acer","Sugar maple",8.6,15
+"1442","H2","SUM","Acer","Sugar maple",10.2,15
+"1443","G5","SUM","Acer","Sugar maple",8,15
+"1444","P6","SUM","Acer","Sugar maple",11.4,15
+"1445","H5","SUM","Acer","Sugar maple",9.4,15
+"1446","G2","SUM","Acer","Sugar maple",12,15
+"1447","C7","SUM","Acer","Sugar maple",7.5,15
+"1448","L4","SUM","Acer","Sugar maple",6.5,15
+"1449","A5","SUM","Acer","Sugar maple",14.6,15
+"1450","H2","SUM","Acer","Sugar maple",11,15
+"1451","F6","SUM","Acer","Sugar maple",11.8,15
+"1452","L5","SUM","Acer","Sugar maple",5.9,15
+"1453","M4","SUM","Acer","Sugar maple",9.2,15
+"1454","R6","SUM","Acer","Sugar maple",11.1,15
+"1455","L5","SUM","Acer","Sugar maple",7.3,15
+"1456","O5","SUM","Acer","Sugar maple",13.3,15
+"1457","L4","SUM","Acer","Sugar maple",6,15
+"1458","P4","SUM","Acer","Sugar maple",7.1,15
+"1459","A5","SUM","Acer","Sugar maple",9.7,15
+"1460","R5","SUM","Acer","Sugar maple",5,15
+"1461","L4","SUM","Acer","Sugar maple",5.4,15
+"1462","P4","SUM","Acer","Sugar maple",11.6,15
+"1463","Q5","SUM","Acer","Sugar maple",8.7,15
+"1464","L4","SUM","Acer","Sugar maple",5.2,15
+"1465","I3","SUM","Acer","Sugar maple",6.5,15
+"1466","R6","SUM","Acer","Sugar maple",9.5,15
+"1467","Q6","SUM","Acer","Sugar maple",11,15
+"1468","J3","SUM","Acer","Sugar maple",5.1,15
+"1469","I2","SUM","Acer","Sugar maple",11.5,15
+"1470","P4","SUM","Acer","Sugar maple",22.6,15
+"1471","D6","SUM","Acer","Sugar maple",5.8,15
+"1472","D5","SUM","Acer","Sugar maple",7.6,15
+"1473","L4","SUM","Acer","Sugar maple",4.7,15
+"1474","D1","SUM","Acer","Sugar maple",7.9,15
+"1475","F1","SUM","Acer","Sugar maple",12.2,15
+"1476","R5","SUM","Acer","Sugar maple",12.9,15
+"1477","J2","SUM","Acer","Sugar maple",11,15
+"1478","H3","SUM","Acer","Sugar maple",6.2,15
+"1479","K6","SUM","Acer","Sugar maple",27.7,15
+"1480","N4","SUM","Acer","Sugar maple",5.5,15
+"1481","L4","SUM","Acer","Sugar maple",5,15
+"1482","F5","SUM","Acer","Sugar maple",8.4,15
+"1483","G5","SUM","Acer","Sugar maple",11.7,15
+"1484","A5","SUM","Acer","Sugar maple",20.4,15
+"1485","I5","SUM","Acer","Sugar maple",4.6,15
+"1486","H5","SUM","Acer","Sugar maple",7.9,15
+"1487","O4","SUM","Acer","Sugar maple",16.3,15
+"1488","L4","SUM","Acer","Sugar maple",7.6,15
+"1489","A5","SUM","Acer","Sugar maple",17.6,15
+"1490","R6","SUM","Acer","Sugar maple",14.2,15
+"1491","R6","SUM","Acer","Sugar maple",9,15
+"1492","D6","SUM","Acer","Sugar maple",5.3,15
+"1493","N4","SUM","Acer","Sugar maple",14.9,15
+"1494","Q7","SUM","Acer","Sugar maple",6.9,15
+"1495","L4","SUM","Acer","Sugar maple",6.4,15
+"1496","J3","SUM","Acer","Sugar maple",8.5,15
+"1497","B5","SUM","Acer","Sugar maple",5.4,15
+"1498","M3","SUM","Acer","Sugar maple",15,15
+"1499","S5","SUM","Acer","Sugar maple",8.1,15
+"1500","O4","SUM","Acer","Sugar maple",14.9,15
+"1501","J3","SUM","Acer","Sugar maple",6.6,15
+"1502","B4","SUM","Acer","Sugar maple",12.5,15
+"1503","F5","SUM","Acer","Sugar maple",10.6,15
+"1504","F5","SUM","Acer","Sugar maple",7.6,15
+"1505","G2","SUM","Acer","Sugar maple",12.3,15
+"1506","P5","SUM","Acer","Sugar maple",7.9,15
+"1507","R5","SUM","Acer","Sugar maple",6.5,15
+"1508","I2","SUM","Acer","Sugar maple",8.1,15
+"1509","J3","SUM","Acer","Sugar maple",4.9,15
+"1510","G5","SUM","Acer","Sugar maple",5.1,15
+"1511","R5","SUM","Acer","Sugar maple",4.5,15
+"1512","D1","SUM","Acer","Sugar maple",7.1,15
+"1513","L4","SUM","Acer","Sugar maple",9,15
+"1514","P4","SUM","Acer","Sugar maple",14.5,15
+"1515","R5","SUM","Acer","Sugar maple",6.3,15
+"1516","G2","SUM","Acer","Sugar maple",11.3,15
+"1517","P4","SUM","Acer","Sugar maple",11.6,15
+"1518","D5","SUM","Acer","Sugar maple",7.7,15
+"1519","L5","SUM","Acer","Sugar maple",11.7,15
+"1520","K4","SUM","Acer","Sugar maple",5.2,15
+"1521","P4","SUM","Acer","Sugar maple",15.5,15
+"1522","R5","SUM","Acer","Sugar maple",5.9,15
+"1523","P5","SUM","Acer","Sugar maple",5.7,15
+"1524","O4","SUM","Acer","Sugar maple",15.4,15
+"1525","L3","SUM","Acer","Sugar maple",8.3,15
+"1526","F3","SUM","Acer","Sugar maple",10.2,15
+"1527","O4","SUM","Acer","Sugar maple",15.7,15
+"1528","M3","SUM","Acer","Sugar maple",8.3,15
+"1529","S5","SUM","Acer","Sugar maple",10.8,15
+"1530","J3","SUM","Acer","Sugar maple",7.4,15
+"1531","P4","SUM","Acer","Sugar maple",13,15
+"1532","J3","SUM","Acer","Sugar maple",8.1,15
+"1533","D1","SUM","Acer","Sugar maple",6.2,15
+"1534","O4","SUM","Acer","Sugar maple",21.4,15
+"1535","R5","SUM","Acer","Sugar maple",15.2,15
+"1536","M3","SUM","Acer","Sugar maple",18.2,15
+"1537","K3","SUM","Acer","Sugar maple",7.7,15
+"1538","F5","SUM","Acer","Sugar maple",7.2,15
+"1539","E1","SUM","Acer","Sugar maple",13.4,15
+"1540","R5","SUM","Acer","Sugar maple",9.8,15
+"1541","O5","SUM","Acer","Sugar maple",19.4,15
+"1542","D5","SUM","Acer","Sugar maple",9.6,15
+"1543","D3","SUM","Acer","Sugar maple",21.9,15
+"1544","G3","SUM","Acer","Sugar maple",8.9,15
+"1545","F2","SUM","Acer","Sugar maple",5.1,15
+"1546","F3","SUM","Acer","Sugar maple",9,15
+"1547","I5","SUM","Acer","Sugar maple",6.1,15
+"1548","Q7","SUM","Acer","Sugar maple",6.7,15
+"1549","H2","SUM","Acer","Sugar maple",13.4,15
+"1550","I5","SUM","Acer","Sugar maple",6.5,15
+"1551","Q6","SUM","Acer","Sugar maple",9.4,15
+"1552","J5","SUM","Acer","Sugar maple",10.2,15
+"1553","H5","SUM","Acer","Sugar maple",4.7,15
+"1554","A5","SUM","Acer","Sugar maple",11.6,15
+"1555","D3","SUM","Acer","Sugar maple",12.8,15
+"1556","H5","SUM","Acer","Sugar maple",12.1,15
+"1557","E1","SUM","Acer","Sugar maple",6.8,15
+"1558","F2","SUM","Acer","Sugar maple",10.9,15
+"1559","J3","SUM","Acer","Sugar maple",6,15
+"1560","G3","SUM","Acer","Sugar maple",7.4,15
+"1561","H4","SUM","Acer","Sugar maple",4.6,15
+"1562","E1","SUM","Acer","Sugar maple",10,15
+"1563","F5","SUM","Acer","Sugar maple",11.4,15
+"1564","Q7","SUM","Acer","Sugar maple",6.1,15
+"1565","I2","SUM","Acer","Sugar maple",6.5,15
+"1566","C7","SUM","Acer","Sugar maple",7.6,15
+"1567","F5","SUM","Acer","Sugar maple",9.7,15
+"1568","S5","SUM","Acer","Sugar maple",4.8,15
+"1569","K4","SUM","Acer","Sugar maple",9,15
+"1570","P4","SUM","Acer","Sugar maple",9.5,15
+"1571","J3","SUM","Acer","Sugar maple",9.5,15
+"1572","N4","SUM","Acer","Sugar maple",11.8,15
+"1573","R6","SUM","Acer","Sugar maple",9.5,15
+"1574","S5","SUM","Acer","Sugar maple",9.5,15
+"1575","K3","SUM","Acer","Sugar maple",7.3,15
+"1576","G2","SUM","Acer","Sugar maple",8,15
+"1577","R5","SUM","Acer","Sugar maple",5.8,15
+"1578","G3","SUM","Acer","Sugar maple",10.4,15
+"1579","C7","SUM","Acer","Sugar maple",7.2,15
+"1580","J5","SUM","Acer","Sugar maple",6.9,15
+"1581","O5","SUM","Acer","Sugar maple",16.4,15
+"1582","B4","SUM","Acer","Sugar maple",11.6,15
+"1583","C1","SUM","Acer","Sugar maple",6.9,15
+"1584","E1","SUM","Acer","Sugar maple",14.1,15
+"1585","H6","SUM","Acer","Sugar maple",5.1,15
+"1586","P5","SUM","Acer","Sugar maple",13.7,15
+"1587","P5","SUM","Acer","Sugar maple",9.3,15
+"1588","N4","SUM","Acer","Sugar maple",19.4,15
+"1589","R5","SUM","Acer","Sugar maple",10.6,15
+"1590","Q6","SUM","Acer","Sugar maple",10.8,15
+"1591","J3","SUM","Acer","Sugar maple",9.1,15
+"1592","P4","SUM","Acer","Sugar maple",5.2,15
+"1593","F1","SUM","Acer","Sugar maple",5.8,15
+"1594","F5","SUM","Acer","Sugar maple",10.7,15
+"1595","D6","SUM","Acer","Sugar maple",9.6,15
+"1596","I2","SUM","Acer","Sugar maple",6,15
+"1597","F5","SUM","Acer","Sugar maple",11.8,15
+"1598","E1","SUM","Acer","Sugar maple",6,15
+"1599","F3","SUM","Acer","Sugar maple",5.2,15
+"1600","P4","SUM","Acer","Sugar maple",10.9,15
+"1601","F5","SUM","Acer","Sugar maple",7.8,15
+"1602","F5","SUM","Acer","Sugar maple",19,15
+"1603","O4","SUM","Acer","Sugar maple",13.7,15
+"1604","P6","SUM","Acer","Sugar maple",10,15
+"1605","C7","SUM","Acer","Sugar maple",11.5,15
+"1606","B4","SUM","Acer","Sugar maple",4.9,15
+"1607","E5","SUM","Acer","Sugar maple",10,15
+"1608","M4","SUM","Acer","Sugar maple",10.1,15
+"1609","Q5","SUM","Acer","Sugar maple",9.2,15
+"1610","I4","SUM","Acer","Sugar maple",6.7,15
+"1611","P6","SUM","Acer","Sugar maple",8.4,15
+"1612","J2","SUM","Acer","Sugar maple",5.3,15
+"1613","L5","SUM","Acer","Sugar maple",7.9,15
+"1614","G2","SUM","Acer","Sugar maple",10,15
+"1615","D1","SUM","Acer","Sugar maple",8.6,15
+"1616","K3","SUM","Acer","Sugar maple",9.7,15
+"1617","L4","SUM","Acer","Sugar maple",5.2,15
+"1618","P6","SUM","Acer","Sugar maple",9.7,15
+"1619","R6","SUM","Acer","Sugar maple",9.7,15
+"1620","C1","SUM","Acer","Sugar maple",6.2,15
+"1621","G5","SUM","Acer","Sugar maple",6.4,15
+"1622","J2","SUM","Acer","Sugar maple",5.6,15
+"1623","E1","SUM","Acer","Sugar maple",10.1,15
+"1624","F2","SUM","Acer","Sugar maple",9.7,15
+"1625","R5","SUM","Acer","Sugar maple",9.1,15
+"1626","D6","SUM","Acer","Sugar maple",6.6,15
+"1627","D1","SUM","Acer","Sugar maple",5,15
+"1628","G2","SUM","Acer","Sugar maple",5.5,15
+"1629","J3","SUM","Acer","Sugar maple",5.5,15
+"1630","L4","SUM","Acer","Sugar maple",5.8,15
+"1631","M3","SUM","Acer","Sugar maple",8,15
+"1632","M4","SUM","Acer","Sugar maple",5.4,15
+"1633","P5","SUM","Acer","Sugar maple",14.7,15
+"1634","F3","SUM","Acer","Sugar maple",9,15
+"1635","I2","SUM","Acer","Sugar maple",7.4,15
+"1636","H2","SUM","Acer","Sugar maple",8.9,15
+"1637","K4","SUM","Acer","Sugar maple",5.8,15
+"1638","L5","SUM","Acer","Sugar maple",8.9,15
+"1639","J3","SUM","Acer","Sugar maple",7,15
+"1640","P6","SUM","Acer","Sugar maple",10.7,15
+"1641","P5","SUM","Acer","Sugar maple",11.5,15
+"1642","A5","SUM","Acer","Sugar maple",10,15
+"1643","H7","SUM","Acer","Sugar maple",9.7,15
+"1644","P5","SUM","Acer","Sugar maple",6.6,15
+"1645","P5","SUM","Acer","Sugar maple",10.8,15
+"1646","M3","SUM","Acer","Sugar maple",14.3,15
+"1647","H2","SUM","Acer","Sugar maple",6.7,15
+"1648","G2","SUM","Acer","Sugar maple",7.5,15
+"1649","J5","SUM","Acer","Sugar maple",6,15
+"1650","H2","SUM","Acer","Sugar maple",9.4,15
+"1651","F5","SUM","Acer","Sugar maple",5.3,15
+"1652","E1","SUM","Acer","Sugar maple",10.8,15
+"1653","F3","SUM","Acer","Sugar maple",7,15
+"1654","G5","SUM","Acer","Sugar maple",5.9,15
+"1655","P5","SUM","Acer","Sugar maple",4.8,15
+"1656","D1","SUM","Acer","Sugar maple",5.8,15
+"1657","D1","SUM","Acer","Sugar maple",6.9,15
+"1658","P5","SUM","Acer","Sugar maple",9.4,15
+"1659","N4","SUM","Acer","Sugar maple",9.3,15
+"1660","K6","SUM","Acer","Sugar maple",11.2,15
+"1661","L5","SUM","Acer","Sugar maple",9,15
+"1662","H7","SUM","Acer","Sugar maple",8,15
+"1663","Q5","SUM","Acer","Sugar maple",8.8,15
+"1664","C1","SUM","Acer","Sugar maple",7.5,15
+"1665","E1","SUM","Acer","Sugar maple",9.6,15
+"1666","H4","SUM","Acer","Sugar maple",6,15
+"1667","C7","SUM","Acer","Sugar maple",7.3,15
+"1668","O4","SUM","Acer","Sugar maple",10,15
+"1669","E5","SUM","Acer","Sugar maple",7.3,15
+"1670","K6","SUM","Acer","Sugar maple",4.8,15
+"1671","I2","SUM","Acer","Sugar maple",7.5,15
+"1672","F5","SUM","Acer","Sugar maple",5.4,15
+"1673","K3","SUM","Acer","Sugar maple",5.4,15
+"1674","H6","SUM","Acer","Sugar maple",5.1,15
+"1675","F5","SUM","Acer","Sugar maple",14.3,15
+"1676","H7","SUM","Acer","Sugar maple",10.1,15
+"1677","G3","SUM","Acer","Sugar maple",8.3,15
+"1678","G2","SUM","Acer","Sugar maple",9,15
+"1679","D6","SUM","Acer","Sugar maple",5.7,15
+"1680","P6","SUM","Acer","Sugar maple",13.7,15
+"1681","D6","SUM","Acer","Sugar maple",8.5,15
+"1682","N4","SUM","Acer","Sugar maple",6.8,15
+"1683","F2","SUM","Acer","Sugar maple",6.2,15
+"1684","H3","SUM","Acer","Sugar maple",5.8,15
+"1685","H6","SUM","Acer","Sugar maple",8.5,15
+"1686","J3","SUM","Acer","Sugar maple",5.5,15
+"1687","Q6","SUM","Acer","Sugar maple",5.7,15
+"1688","Q7","SUM","Acer","Sugar maple",6.2,15
+"1689","K3","SUM","Acer","Sugar maple",7.5,15
+"1690","S5","SUM","Acer","Sugar maple",6.4,15
+"1691","P5","SUM","Acer","Sugar maple",10,15
+"1692","B4","SUM","Acer","Sugar maple",5.7,15
+"1693","R5","SUM","Acer","Sugar maple",6.3,15
+"1694","Q6","SUM","Acer","Sugar maple",7.7,15
+"1695","R5","SUM","Acer","Sugar maple",13.7,15
+"1696","H3","SUM","Acer","Sugar maple",5.1,15
+"1697","F2","SUM","Acer","Sugar maple",8.1,15
+"1698","R5","SUM","Acer","Sugar maple",5.9,15
+"1699","A5","SUM","Acer","Sugar maple",10.4,15
+"1700","R5","SUM","Acer","Sugar maple",5.7,15
+"1701","E4","SUM","Acer","Sugar maple",6.3,15
+"1702","F5","SUM","Acer","Sugar maple",7,15
+"1703","F5","SUM","Acer","Sugar maple",9.5,15
+"1704","Q7","SUM","Acer","Sugar maple",5.4,15
+"1705","K3","SUM","Acer","Sugar maple",20.6,15
+"1706","G4","SUM","Acer","Sugar maple",5.1,15
+"1707","F5","SUM","Acer","Sugar maple",6.5,15
+"1708","H2","SUM","Acer","Sugar maple",9.1,15
+"1709","H2","SUM","Acer","Sugar maple",7.5,15
+"1710","G3","SUM","Acer","Sugar maple",5.2,15
+"1711","D1","SUM","Acer","Sugar maple",15.1,15
+"1712","G2","SUM","Acer","Sugar maple",6.4,15
+"1713","P5","SUM","Acer","Sugar maple",4.6,15
+"1714","E1","SUM","Acer","Sugar maple",11.3,15
+"1715","Q5","SUM","Acer","Sugar maple",8.4,15
+"1716","C7","SUM","Acer","Sugar maple",7.9,15
+"1717","N4","SUM","Acer","Sugar maple",11.1,15
+"1718","H2","SUM","Acer","Sugar maple",7.9,15
+"1719","F1","SUM","Acer","Sugar maple",10.3,15
+"1720","F1","SUM","Acer","Sugar maple",4.7,15
+"1721","E1","SUM","Acer","Sugar maple",6,15
+"1722","O5","SUM","Acer","Sugar maple",9.4,15
+"1723","F6","SUM","Acer","Sugar maple",8.9,15
+"1724","H5","SUM","Acer","Sugar maple",11.4,15
+"1725","P5","SUM","Acer","Sugar maple",10,15
+"1726","M3","SUM","Acer","Sugar maple",6.2,15
+"1727","E3","SUM","Acer","Sugar maple",5.4,15
+"1728","G4","SUM","Acer","Sugar maple",5.1,15
+"1729","F5","SUM","Acer","Sugar maple",7.5,15
+"1730","N4","SUM","Acer","Sugar maple",10,15
+"1731","K4","SUM","Acer","Sugar maple",13,15
+"1732","R5","SUM","Acer","Sugar maple",5.4,15
+"1733","D6","SUM","Acer","Sugar maple",5.1,15
+"1734","A5","SUM","Acer","Sugar maple",6.4,15
+"1735","K4","SUM","Acer","Sugar maple",5.1,15
+"1736","Q7","SUM","Acer","Sugar maple",5.7,15
+"1737","R5","SUM","Acer","Sugar maple",6.4,15
+"1738","F1","SUM","Acer","Sugar maple",5.1,15
+"1739","P5","SUM","Acer","Sugar maple",9.7,15
+"1740","H2","SUM","Acer","Sugar maple",10.2,15
+"1741","C7","SUM","Acer","Sugar maple",6.1,15
+"1742","F3","SUM","Acer","Sugar maple",5,15
+"1743","F5","SUM","Acer","Sugar maple",11.4,15
+"1744","G5","SUM","Acer","Sugar maple",8.8,15
+"1745","R6","SUM","Acer","Sugar maple",13.9,15
+"1746","C7","SUM","Acer","Sugar maple",7.6,15
+"1747","D3","SUM","Acer","Sugar maple",10.5,15
+"1748","H6","SUM","Acer","Sugar maple",8.7,15
+"1749","F3","SUM","Acer","Sugar maple",5.5,15
+"1750","M4","SUM","Acer","Sugar maple",6,15
+"1751","K6","SUM","Acer","Sugar maple",5.9,15
+"1752","L3","SUM","Acer","Sugar maple",8.4,15
+"1753","H5","SUM","Acer","Sugar maple",10.8,15
+"1754","Q7","SUM","Acer","Sugar maple",10.2,15
+"1755","L5","SUM","Acer","Sugar maple",10.8,15
+"1756","F2","SUM","Acer","Sugar maple",6.3,15
+"1757","G5","SUM","Acer","Sugar maple",6.3,15
+"1758","D6","SUM","Acer","Sugar maple",7.6,15
+"1759","J2","SUM","Acer","Sugar maple",5.3,15
+"1760","O4","SUM","Acer","Sugar maple",11,15
+"1761","R6","SUM","Acer","Sugar maple",5.3,15
+"1762","F5","SUM","Acer","Sugar maple",6,15
+"1763","G3","SUM","Acer","Sugar maple",6.3,15
+"1764","G5","SUM","Acer","Sugar maple",5.5,15
+"1765","C7","SUM","Acer","Sugar maple",7.1,15
+"1766","N4","SUM","Acer","Sugar maple",7.6,15
+"1767","G2","SUM","Acer","Sugar maple",6.7,15
+"1768","H2","SUM","Acer","Sugar maple",7.7,15
+"1769","H2","SUM","Acer","Sugar maple",15.2,15
+"1770","G2","SUM","Acer","Sugar maple",6,15
+"1771","Q6","SUM","Acer","Sugar maple",4.6,15
+"1772","Q7","SUM","Acer","Sugar maple",5.1,15
+"1773","I3","SUM","Acer","Sugar maple",4.6,15
+"1774","D1","SUM","Acer","Sugar maple",6.3,15
+"1775","H6","SUM","Acer","Sugar maple",7,15
+"1776","F6","SUM","Acer","Sugar maple",7.9,15
+"1777","D6","SUM","Acer","Sugar maple",6.2,15
+"1778","E1","SUM","Acer","Sugar maple",6.2,15
+"1779","R5","SUM","Acer","Sugar maple",10.6,15
+"1780","J4","SUM","Acer","Sugar maple",15.6,15
+"1781","G3","SUM","Acer","Sugar maple",5.7,15
+"1782","L5","SUM","Acer","Sugar maple",6.1,15
+"1783","R5","SUM","Acer","Sugar maple",8.9,15
+"1784","E3","SUM","Acer","Sugar maple",6.6,15
+"1785","C7","SUM","Acer","Sugar maple",8.1,15
+"1786","J3","SUM","Acer","Sugar maple",6.7,15
+"1787","N4","SUM","Acer","Sugar maple",9.4,15
+"1788","Q6","SUM","Acer","Sugar maple",11.3,15
+"1789","K3","SUM","Acer","Sugar maple",7.4,15
+"1790","H4","SUM","Acer","Sugar maple",5.5,15
+"1791","Q6","SUM","Acer","Sugar maple",7.7,15
+"1792","K3","SUM","Acer","Sugar maple",7.3,15
+"1793","R6","SUM","Acer","Sugar maple",5.9,15
+"1794","H4","SUM","Acer","Sugar maple",5.1,15
+"1795","P6","SUM","Acer","Sugar maple",6.7,15
+"1796","H3","SUM","Acer","Sugar maple",6.4,15
+"1797","H6","SUM","Acer","Sugar maple",9.2,15
+"1798","O4","SUM","Acer","Sugar maple",6.2,15
+"1799","G3","SUM","Acer","Sugar maple",5,15
+"1800","C1","SUM","Acer","Sugar maple",6.9,15
+"1801","H2","SUM","Acer","Sugar maple",6.4,15
+"1802","I5","SUM","Acer","Sugar maple",6.8,15
+"1803","R5","SUM","Acer","Sugar maple",5,15
+"1804","D1","SUM","Acer","Sugar maple",7.9,15
+"1805","G2","SUM","Acer","Sugar maple",7.8,15
+"1806","J2","SUM","Acer","Sugar maple",5.7,15
+"1807","Q6","SUM","Acer","Sugar maple",5.7,15
+"1808","K5","SUM","Acer","Sugar maple",6.5,15
+"1809","I3","SUM","Acer","Sugar maple",5.1,15
+"1810","D1","SUM","Acer","Sugar maple",6.1,15
+"1811","Q6","SUM","Acer","Sugar maple",15,15
+"1812","J3","SUM","Acer","Sugar maple",7.4,15
+"1813","J2","SUM","Acer","Sugar maple",6,15
+"1814","Q7","SUM","Acer","Sugar maple",7.4,15
+"1815","F2","SUM","Acer","Sugar maple",7.2,15
+"1816","Q7","SUM","Acer","Sugar maple",6.3,15
+"1817","E3","SUM","Acer","Sugar maple",6.8,15
+"1818","H7","SUM","Acer","Sugar maple",6.5,15
+"1819","P5","SUM","Acer","Sugar maple",5.9,15
+"1820","R6","SUM","Acer","Sugar maple",5.3,15
+"1821","S5","SUM","Acer","Sugar maple",13,15
+"1822","H3","SUM","Acer","Sugar maple",5.5,15
+"1823","G5","SUM","Acer","Sugar maple",7.7,15
+"1824","H4","SUM","Acer","Sugar maple",7.8,15
+"1825","B4","SUM","Acer","Sugar maple",5.1,15
+"1826","G5","SUM","Acer","Sugar maple",5.3,15
+"1827","R5","SUM","Acer","Sugar maple",5.6,15
+"1828","M4","SUM","Acer","Sugar maple",6.1,15
+"1829","J3","SUM","Acer","Sugar maple",6.5,15
+"1830","G5","SUM","Acer","Sugar maple",6,15
+"1831","Q7","SUM","Acer","Sugar maple",8.5,15
+"1832","I2","SUM","Acer","Sugar maple",7.5,15
+"1833","F3","SUM","Acer","Sugar maple",5.4,15
+"1834","E1","SUM","Acer","Sugar maple",9.1,15
+"1835","G2","SUM","Acer","Sugar maple",9,15
+"1836","E3","SUM","Acer","Sugar maple",6.2,15
+"1837","F6","SUM","Acer","Sugar maple",7.8,15
+"1838","O4","SUM","Acer","Sugar maple",7.1,15
+"1839","S5","SUM","Acer","Sugar maple",8.3,15
+"1840","I2","SUM","Acer","Sugar maple",6,15
+"1841","F5","SUM","Acer","Sugar maple",9.5,15
+"1842","E3","SUM","Acer","Sugar maple",5.6,15
+"1843","M3","SUM","Acer","Sugar maple",4.7,15
+"1844","R6","SUM","Acer","Sugar maple",5.6,15
+"1845","P5","SUM","Acer","Sugar maple",6.7,15
+"1846","Q7","SUM","Acer","Sugar maple",6.8,15
+"1847","H3","SUM","Acer","Sugar maple",5.5,15
+"1848","D1","SUM","Acer","Sugar maple",6.5,15
+"1849","G3","SUM","Acer","Sugar maple",6.7,15
+"1850","R5","SUM","Acer","Sugar maple",12.2,15
+"1851","D1","SUM","Acer","Sugar maple",6.5,15
+"1852","J4","SUM","Acer","Sugar maple",5.1,15
+"1853","Q7","SUM","Acer","Sugar maple",5.4,15
+"1854","K5","SUM","Acer","Sugar maple",6.2,15
+"1855","R6","SUM","Acer","Sugar maple",4.6,15
+"1856","P6","SUM","Acer","Sugar maple",4.6,15
+"1857","G5","SUM","Acer","Sugar maple",6,15
+"1858","J5","SUM","Acer","Sugar maple",5.3,15
+"1859","P4","SUM","Acer","Sugar maple",6.5,15
+"1860","H7","SUM","Acer","Sugar maple",6.2,15
+"1861","R6","SUM","Acer","Sugar maple",5.9,15
+"1862","Q5","SUM","Acer","Sugar maple",6.2,15
+"1863","P5","SUM","Acer","Sugar maple",2.6,15
+"1864","G2","SUM","Acer","Sugar maple",7.2,15
+"1865","P5","SUM","Acer","Sugar maple",5.7,15
+"1866","G5","SUM","Acer","Sugar maple",5.1,15
+"1867","H4","SUM","Acer","Sugar maple",6.2,15
+"1868","R5","SUM","Acer","Sugar maple",5.6,15
+"1869","G2","SUM","Acer","Sugar maple",7.4,15
+"1870","R6","SUM","Acer","Sugar maple",5.6,15
+"1871","K5","SUM","Acer","Sugar maple",5.5,15
+"1872","K5","SUM","Acer","Sugar maple",5.5,15
+"1873","K5","SUM","Acer","Sugar maple",4.8,15
+"1874","S5","SUM","Acer","Sugar maple",13.4,15
+"1875","J2","SUM","Acer","Sugar maple",10.3,15
+"1876","Q5","SUM","Acer","Sugar maple",5.8,15
+"1877","F3","SUM","Acer","Sugar maple",6.9,15
+"1878","L4","SUM","Acer","Sugar maple",5.4,15
+"1879","N4","SUM","Acer","Sugar maple",6.9,15
+"1880","E1","SUM","Acer","Sugar maple",4.6,15
+"1881","Q7","SUM","Acer","Sugar maple",6.9,15
+"1882","F6","SUM","Acer","Sugar maple",5.4,15
+"1883","B4","SUM","Acer","Sugar maple",6.3,15
+"1884","D3","SUM","Acer","Sugar maple",5.2,15
+"1885","F2","SUM","Acer","Sugar maple",4.8,15
+"1886","G3","SUM","Acer","Sugar maple",4.9,15
+"1887","D1","SUM","Acer","Sugar maple",5.5,15
+"1888","F3","SUM","Acer","Sugar maple",6.2,15
+"1889","A5","SUM","Acer","Sugar maple",10.1,15
+"1890","H6","SUM","Acer","Sugar maple",4.6,15
+"1891","H2","SUM","Acer","Sugar maple",5.4,15
+"1892","P6","SUM","Acer","Sugar maple",6.4,15
+"1893","E5","SUM","Acer","Sugar maple",6.1,15
+"1894","L5","SUM","Acer","Sugar maple",8.2,15
+"1895","S5","SUM","Acer","Sugar maple",4.7,15
+"1896","H2","SUM","Acer","Sugar maple",12.3,15
+"1897","M4","SUM","Acer","Sugar maple",7.1,15
+"1898","C7","SUM","Acer","Sugar maple",5.2,15
+"1899","B4","SUM","Acer","Sugar maple",5.5,15
+"1900","F1","SUM","Acer","Sugar maple",7.3,15
+"1901","Q5","SUM","Acer","Sugar maple",7.5,15
+"1902","D6","SUM","Acer","Sugar maple",6,15
+"1903","Q6","SUM","Acer","Sugar maple",12.5,15
+"1904","I5","SUM","Acer","Sugar maple",9.1,15
+"1905","Q7","SUM","Acer","Sugar maple",7.1,15
+"1906","I2","SUM","Acer","Sugar maple",5.9,15
+"1907","N4","SUM","Acer","Sugar maple",6.2,15
+"1908","H2","SUM","Acer","Sugar maple",13.2,15
+"1909","E1","SUM","Acer","Sugar maple",9.6,15
+"1910","N4","SUM","Acer","Sugar maple",5.3,15
+"1911","H4","SUM","Acer","Sugar maple",11.3,15
+"1912","K6","SUM","Acer","Sugar maple",6,15
+"1913","F5","SUM","Acer","Sugar maple",5,15
+"1914","H2","SUM","Acer","Sugar maple",11.5,15
+"1915","F3","SUM","Acer","Sugar maple",5.4,15
+"1916","C7","SUM","Acer","Sugar maple",9.2,15
+"1917","K3","SUM","Acer","Sugar maple",5.1,15
+"1918","G2","SUM","Acer","Sugar maple",5.8,15
+"1919","R5","SUM","Acer","Sugar maple",7.1,15
+"1920","F2","SUM","Acer","Sugar maple",5.3,15
+"1921","S5","SUM","Acer","Sugar maple",14.4,15
+"1922","L3","SUM","Acer","Sugar maple",5.4,15
+"1923","N4","SUM","Acer","Sugar maple",9.5,15
+"1924","R5","SUM","Acer","Sugar maple",5.3,15
+"1925","G3","SUM","Acer","Sugar maple",4.6,15
+"1926","S5","SUM","Acer","Sugar maple",4.6,15
+"1927","F5","SUM","Acer","Sugar maple",4.6,15
+"1928","G5","SUM","Acer","Sugar maple",5.5,15
+"1929","S5","SUM","Acer","Sugar maple",7.2,15
+"1930","H2","SUM","Acer","Sugar maple",10.1,15
+"1931","J2","SUM","Acer","Sugar maple",7.5,15
+"1932","P5","SUM","Acer","Sugar maple",6.7,15
+"1933","G5","SUM","Acer","Sugar maple",4.6,15
+"1934","R6","SUM","Acer","Sugar maple",4.6,15
+"1935","P4","SUM","Acer","Sugar maple",7.9,15
+"1936","H5","SUM","Acer","Sugar maple",4.8,15
+"1937","G4","SUM","Acer","Sugar maple",4.7,15
+"1938","H6","SUM","Acer","Sugar maple",4.8,15
+"1939","L5","SUM","Acer","Sugar maple",9.3,15
+"1940","H2","SUM","Acer","Sugar maple",5.3,15
+"1941","G2","SUM","Acer","Sugar maple",10.7,15
+"1942","S5","SUM","Acer","Sugar maple",4.8,15
+"1943","S5","SUM","Acer","Sugar maple",5.8,15
+"1944","H4","SUM","Acer","Sugar maple",7.2,15
+"1945","G2","SUM","Acer","Sugar maple",5,15
+"1946","H6","SUM","Acer","Sugar maple",7,15
+"1947","N4","SUM","Acer","Sugar maple",6.1,15
+"1948","G2","SUM","Acer","Sugar maple",11,15
+"1949","H4","SUM","Acer","Sugar maple",4.8,15
+"1950","I5","SUM","Acer","Sugar maple",7,15
+"1951","H2","SUM","Acer","Sugar maple",5.2,15
+"1952","H3","SUM","Acer","Sugar maple",8,15
+"1953","F1","SUM","Acer","Sugar maple",4.6,15
+"1954","H3","SUM","Acer","Sugar maple",4.6,15
+"1955","E3","SUM","Acer","Sugar maple",9.9,15
+"1956","F2","SUM","Acer","Sugar maple",4.7,15
+"1957","D1","SUM","Acer","Sugar maple",7.7,15
+"1958","E1","SUM","Acer","Sugar maple",6.3,15
+"1959","D1","SUM","Acer","Sugar maple",6.1,15
+"1960","F5","SUM","Acer","Sugar maple",4.8,15
+"1961","P6","SUM","Acer","Sugar maple",5.1,15
+"1962","F1","SUM","Acer","Sugar maple",5.9,15
+"1963","H4","SUM","Acer","Sugar maple",7,15
+"1964","K4","SUM","Acer","Sugar maple",5.3,15
+"1965","A5","SUM","Acer","Sugar maple",5.2,15
+"1966","F5","SUM","Acer","Sugar maple",4.9,15
+"1967","E3","SUM","Acer","Sugar maple",4.6,15
+"1968","R5","SUM","Acer","Sugar maple",4.8,15
+"1969","S5","SUM","Acer","Sugar maple",5.9,15
+"1970","Q6","SUM","Acer","Sugar maple",6.9,15
+"1971","G5","SUM","Acer","Sugar maple",4.8,15
+"1972","Q6","SUM","Acer","Sugar maple",8.8,15
+"1973","R5","SUM","Acer","Sugar maple",4.8,15
+"1974","J5","SUM","Acer","Sugar maple",5.4,15
+"1975","F6","SUM","Acer","Sugar maple",5.3,15
+"1976","S5","SUM","Acer","Sugar maple",6.3,15
+"1977","F5","SUM","Acer","Sugar maple",4.8,15
+"1978","E3","SUM","Acer","Sugar maple",4.6,15
+"1979","B4","SUM","Acer","Sugar maple",6,15
+"1980","D1","SUM","Acer","Sugar maple",6.8,15
+"1981","D1","SUM","Acer","Sugar maple",7.2,15
+"1982","F1","SUM","Acer","Sugar maple",5.1,15
+"1983","P5","SUM","Acer","Sugar maple",3.1,15
+"1984","E5","SUM","Acer","Sugar maple",7.8,15
+"1985","G2","SUM","Acer","Sugar maple",6.4,15
+"1986","P4","SUM","Acer","Sugar maple",6.8,15
+"1987","H4","SUM","Acer","Sugar maple",5.6,15
+"1988","J5","SUM","Acer","Sugar maple",5.9,15
+"1989","Q7","SUM","Acer","Sugar maple",6.5,15
+"1990","J2","SUM","Acer","Sugar maple",7.1,15
+"1991","M4","SUM","Acer","Sugar maple",13,15
+"1992","H2","SUM","Acer","Sugar maple",7,15
+"1993","I5","SUM","Acer","Sugar maple",5.9,15
+"1994","B4","SUM","Acer","Sugar maple",4.7,15
+"1995","B4","SUM","Acer","Sugar maple",7,15
+"1996","I3","SUM","Acer","Sugar maple",6.6,15
+"1997","O4","SUM","Acer","Sugar maple",5.7,15
+"1998","G2","SUM","Acer","Sugar maple",5,15
+"1999","R5","SUM","Acer","Sugar maple",5.6,15
+"2000","I5","SUM","Acer","Sugar maple",5.1,15
+"2001","F3","SUM","Acer","Sugar maple",4.8,15
+"2002","P5","SUM","Acer","Sugar maple",5.2,15
+"2003","R6","SUM","Acer","Sugar maple",5.5,15
+"2004","G2","SUM","Acer","Sugar maple",6.4,15
+"2005","H4","SUM","Acer","Sugar maple",4.6,15
+"2006","E3","SUM","Acer","Sugar maple",5.3,15
+"2007","I2","TUP","Liriodendron","Tulip poplar",7.4,27
+"2008","G2","TUP","Liriodendron","Tulip poplar",9.6,27
+"2009","I3","TUP","Liriodendron","Tulip poplar",20,27
+"2010","D1","TUP","Liriodendron","Tulip poplar",10.9,27
+"2011","H2","TUP","Liriodendron","Tulip poplar",35.4,27
+"2012","D7","TUP","Liriodendron","Tulip poplar",5.3,27
+"2013","I2","TUP","Liriodendron","Tulip poplar",11.9,27
+"2014","J3","TUP","Liriodendron","Tulip poplar",19.6,27
+"2015","O5","TUP","Liriodendron","Tulip poplar",7.8,27
+"2016","L3","TUP","Liriodendron","Tulip poplar",12.9,27
+"2017","E5","TUP","Liriodendron","Tulip poplar",14.2,27
+"2018","P6","TUP","Liriodendron","Tulip poplar",23.9,27
+"2019","M3","TUP","Liriodendron","Tulip poplar",16.3,27
+"2020","R5","TUP","Liriodendron","Tulip poplar",30.4,27
+"2021","R5","TUP","Liriodendron","Tulip poplar",27.8,27
+"2022","I3","TUP","Liriodendron","Tulip poplar",11.8,27
+"2023","G2","TUP","Liriodendron","Tulip poplar",9,27
+"2024","L3","TUP","Liriodendron","Tulip poplar",20.6,27
+"2025","L3","TUP","Liriodendron","Tulip poplar",16.5,27
+"2026","E3","TUP","Liriodendron","Tulip poplar",9,27
+"2027","H3","TUP","Liriodendron","Tulip poplar",25.1,27
+"2028","S5","TUP","Liriodendron","Tulip poplar",26.3,27
+"2029","E1","TUP","Liriodendron","Tulip poplar",6.1,27
+"2030","F3","TUP","Liriodendron","Tulip poplar",33.6,27
+"2031","E5","TUP","Liriodendron","Tulip poplar",23.2,27
+"2032","C7","TUP","Liriodendron","Tulip poplar",10.5,27
+"2033","L4","TUP","Liriodendron","Tulip poplar",20.7,27
+"2034","P5","TUP","Liriodendron","Tulip poplar",22.6,27
+"2035","P6","TUP","Liriodendron","Tulip poplar",13,27
+"2036","C5","TUP","Liriodendron","Tulip poplar",30,27
+"2037","C1","TUP","Liriodendron","Tulip poplar",10.1,27
+"2038","H5","TUP","Liriodendron","Tulip poplar",37.6,27
+"2039","O5","TUP","Liriodendron","Tulip poplar",6.3,27
+"2040","C1","TUP","Liriodendron","Tulip poplar",27.6,27
+"2041","E1","TUP","Liriodendron","Tulip poplar",8.5,27
+"2042","K4","TUP","Liriodendron","Tulip poplar",36.9,27
+"2043","F7","TUP","Liriodendron","Tulip poplar",6.1,27
+"2044","L3","TUP","Liriodendron","Tulip poplar",14.7,27
+"2045","P6","TUP","Liriodendron","Tulip poplar",23.7,27
+"2046","J4","TUP","Liriodendron","Tulip poplar",16.6,27
+"2047","P6","TUP","Liriodendron","Tulip poplar",40.1,27
+"2048","E7","TUP","Liriodendron","Tulip poplar",6.9,27
+"2049","O5","TUP","Liriodendron","Tulip poplar",9.2,27
+"2050","E3","TUP","Liriodendron","Tulip poplar",17.8,27
+"2051","F7","TUP","Liriodendron","Tulip poplar",10,27
+"2052","C5","TUP","Liriodendron","Tulip poplar",24.4,27
+"2053","L5","TUP","Liriodendron","Tulip poplar",29.9,27
+"2054","I2","TUP","Liriodendron","Tulip poplar",11.2,27
+"2055","O5","TUP","Liriodendron","Tulip poplar",5,27
+"2056","L4","TUP","Liriodendron","Tulip poplar",27.8,27
+"2057","S5","TUP","Liriodendron","Tulip poplar",21.1,27
+"2058","C5","TUP","Liriodendron","Tulip poplar",18.5,27
+"2059","P4","TUP","Liriodendron","Tulip poplar",15,27
+"2060","H5","TUP","Liriodendron","Tulip poplar",16.2,27
+"2061","I3","TUP","Liriodendron","Tulip poplar",10.6,27
+"2062","L3","TUP","Liriodendron","Tulip poplar",11.3,27
+"2063","H2","TUP","Liriodendron","Tulip poplar",23.2,27
+"2064","S5","TUP","Liriodendron","Tulip poplar",25.3,27
+"2065","I4","TUP","Liriodendron","Tulip poplar",17,27
+"2066","P6","TUP","Liriodendron","Tulip poplar",22.8,27
+"2067","H2","TUP","Liriodendron","Tulip poplar",20.7,27
+"2068","R5","TUP","Liriodendron","Tulip poplar",17.6,27
+"2069","Q6","TUP","Liriodendron","Tulip poplar",34.9,27
+"2070","I2","TUP","Liriodendron","Tulip poplar",6.7,27
+"2071","B5","TUP","Liriodendron","Tulip poplar",24.3,27
+"2072","K4","TUP","Liriodendron","Tulip poplar",8.5,27
+"2073","F7","TUP","Liriodendron","Tulip poplar",6.7,27
+"2074","F7","TUP","Liriodendron","Tulip poplar",6.5,27
+"2075","L3","TUP","Liriodendron","Tulip poplar",10.6,27
+"2076","I4","TUP","Liriodendron","Tulip poplar",17.3,27
+"2077","I4","TUP","Liriodendron","Tulip poplar",23.7,27
+"2078","J4","TUP","Liriodendron","Tulip poplar",30.2,27
+"2079","C7","TUP","Liriodendron","Tulip poplar",6.6,27
+"2080","K3","TUP","Liriodendron","Tulip poplar",10.8,27
+"2081","I3","TUP","Liriodendron","Tulip poplar",23.1,27
+"2082","I2","TUP","Liriodendron","Tulip poplar",8.4,27
+"2083","P6","TUP","Liriodendron","Tulip poplar",18.5,27
+"2084","I2","TUP","Liriodendron","Tulip poplar",9,27
+"2085","D5","TUP","Liriodendron","Tulip poplar",27.5,27
+"2086","O5","TUP","Liriodendron","Tulip poplar",7.2,27
+"2087","C5","TUP","Liriodendron","Tulip poplar",22.9,27
+"2088","O4","TUP","Liriodendron","Tulip poplar",16,27
+"2089","I4","TUP","Liriodendron","Tulip poplar",16.4,27
+"2090","E7","TUP","Liriodendron","Tulip poplar",5.9,27
+"2091","J4","TUP","Liriodendron","Tulip poplar",10.8,27
+"2092","F7","TUP","Liriodendron","Tulip poplar",5.2,27
+"2093","O5","TUP","Liriodendron","Tulip poplar",5.9,27
+"2094","F7","TUP","Liriodendron","Tulip poplar",7.4,27
+"2095","D7","TUP","Liriodendron","Tulip poplar",4.6,27
+"2096","C7","TUP","Liriodendron","Tulip poplar",6.7,27
+"2097","F7","TUP","Liriodendron","Tulip poplar",10.5,27
+"2098","Q4","TUP","Liriodendron","Tulip poplar",6.1,27
+"2099","E3","TUP","Liriodendron","Tulip poplar",22.1,27
+"2100","O5","TUP","Liriodendron","Tulip poplar",9.1,27
+"2101","F7","TUP","Liriodendron","Tulip poplar",9,27
+"2102","Q4","TUP","Liriodendron","Tulip poplar",18.1,27
+"2103","L3","TUP","Liriodendron","Tulip poplar",19.5,27
+"2104","D5","TUP","Liriodendron","Tulip poplar",15.4,27
+"2105","F1","TUP","Liriodendron","Tulip poplar",6,27
+"2106","L3","TUP","Liriodendron","Tulip poplar",12.6,27
+"2107","I2","TUP","Liriodendron","Tulip poplar",10,27
+"2108","G2","TUP","Liriodendron","Tulip poplar",10.5,27
+"2109","Q5","TUP","Liriodendron","Tulip poplar",21,27
+"2110","O5","TUP","Liriodendron","Tulip poplar",14.1,27
+"2111","D5","TUP","Liriodendron","Tulip poplar",29.1,27
+"2112","D5","TUP","Liriodendron","Tulip poplar",14.8,27
+"2113","K4","TUP","Liriodendron","Tulip poplar",26.5,27
+"2114","I2","TUP","Liriodendron","Tulip poplar",12.7,27
+"2115","E5","TUP","Liriodendron","Tulip poplar",13.8,27
+"2116","H5","TUP","Liriodendron","Tulip poplar",17.8,27
+"2117","D5","TUP","Liriodendron","Tulip poplar",19.7,27
+"2118","I3","TUP","Liriodendron","Tulip poplar",16.3,27
+"2119","C1","TUP","Liriodendron","Tulip poplar",32.9,27
+"2120","M4","TUP","Liriodendron","Tulip poplar",10.2,27
+"2121","I2","TUP","Liriodendron","Tulip poplar",8.6,27
+"2122","L3","TUP","Liriodendron","Tulip poplar",13,27
+"2123","C1","TUP","Liriodendron","Tulip poplar",27.5,27
+"2124","I3","TUP","Liriodendron","Tulip poplar",14,27
+"2125","P6","TUP","Liriodendron","Tulip poplar",10.6,27
+"2126","D3","TUP","Liriodendron","Tulip poplar",15.9,27
+"2127","O5","TUP","Liriodendron","Tulip poplar",7.7,27
+"2128","B6","VIP","Pinus","Virginia Pine",10.2,9
+"2129","B6","VIP","Pinus","Virginia Pine",9.3,9
+"2130","B6","VIP","Pinus","Virginia Pine",11.4,9
+"2131","B6","VIP","Pinus","Virginia Pine",13.2,9
+"2132","B6","VIP","Pinus","Virginia Pine",8.2,9
+"2133","B6","VIP","Pinus","Virginia Pine",9,9
+"2134","B6","VIP","Pinus","Virginia Pine",6.6,9
+"2135","B6","VIP","Pinus","Virginia Pine",10.7,9
+"2136","B6","VIP","Pinus","Virginia Pine",11.6,9
+"2137","B6","VIP","Pinus","Virginia Pine",7.9,9
+"2138","B6","VIP","Pinus","Virginia Pine",8.1,9
+"2139","B6","VIP","Pinus","Virginia Pine",11.8,9
+"2140","B6","VIP","Pinus","Virginia Pine",13.4,9
+"2141","B6","VIP","Pinus","Virginia Pine",9.8,9
+"2142","B6","VIP","Pinus","Virginia Pine",9.8,9
+"2143","B6","VIP","Pinus","Virginia Pine",8.9,9
+"2144","A6","VIP","Pinus","Virginia Pine",10.2,9
+"2145","B6","VIP","Pinus","Virginia Pine",16.1,9
+"2146","B6","VIP","Pinus","Virginia Pine",13.1,9
+"2147","B6","VIP","Pinus","Virginia Pine",13.6,9
+"2148","B6","VIP","Pinus","Virginia Pine",6.7,9
+"2149","B6","VIP","Pinus","Virginia Pine",8.6,9
+"2150","B6","VIP","Pinus","Virginia Pine",10.7,9
+"2151","B6","VIP","Pinus","Virginia Pine",7.7,9
+"2152","A6","VIP","Pinus","Virginia Pine",17,9
+"2153","B6","VIP","Pinus","Virginia Pine",6.9,9
+"2154","B6","VIP","Pinus","Virginia Pine",13.2,9
+"2155","A6","VIP","Pinus","Virginia Pine",6.3,9
+"2156","B6","VIP","Pinus","Virginia Pine",9.6,9
+"2157","A6","VIP","Pinus","Virginia Pine",8,9
+"2158","B6","VIP","Pinus","Virginia Pine",9.9,9
+"2159","B6","VIP","Pinus","Virginia Pine",5.8,9
+"2160","B6","VIP","Pinus","Virginia Pine",6.9,9
+"2161","B6","VIP","Pinus","Virginia Pine",7.3,9
+"2162","A6","VIP","Pinus","Virginia Pine",15.3,9
+"2163","B6","VIP","Pinus","Virginia Pine",10.9,9
+"2164","B6","VIP","Pinus","Virginia Pine",10.1,9
+"2165","B6","VIP","Pinus","Virginia Pine",5.5,9
+"2166","B6","VIP","Pinus","Virginia Pine",10.6,9
+"2167","B6","VIP","Pinus","Virginia Pine",8.8,9
+"2168","A6","VIP","Pinus","Virginia Pine",13,9
+"2169","B6","VIP","Pinus","Virginia Pine",11.6,9
+"2170","K4","WHA","Fraxinus","White ash",24.1,29
+"2171","J2","WHA","Fraxinus","White ash",11,29
+"2172","J4","WHA","Fraxinus","White ash",14.6,29
+"2173","L4","WHA","Fraxinus","White ash",17.3,29
+"2174","J4","WHA","Fraxinus","White ash",20.1,29
+"2175","D1","WHA","Fraxinus","White ash",20.8,29
+"2176","K4","WHA","Fraxinus","White ash",25.3,29
+"2177","D1","WHA","Fraxinus","White ash",15.1,29
+"2178","R5","WHA","Fraxinus","White ash",17.6,29
+"2179","M3","WHA","Fraxinus","White ash",2.9,29
+"2180","M3","WHA","Fraxinus","White ash",8.9,29
+"2181","O5","WHA","Fraxinus","White ash",11.1,29
+"2182","K4","WHA","Fraxinus","White ash",15.8,29
+"2183","Q7","WHA","Fraxinus","White ash",31.1,29
+"2184","C1","WHA","Fraxinus","White ash",5.6,29
+"2185","C1","WHA","Fraxinus","White ash",14.1,29
+"2186","J5","WHA","Fraxinus","White ash",6.3,29
+"2187","J5","WHA","Fraxinus","White ash",9.9,29
+"2188","N4","WHA","Fraxinus","White ash",8.4,29
+"2189","Q5","WHA","Fraxinus","White ash",14.8,29
+"2190","P6","WHA","Fraxinus","White ash",12.6,29
+"2191","J2","WHA","Fraxinus","White ash",10.8,29
+"2192","K4","WHA","Fraxinus","White ash",18.8,29
+"2193","P6","WHA","Fraxinus","White ash",18.9,29
+"2194","J2","WHA","Fraxinus","White ash",10.8,29
+"2195","D3","WHO","Quercus","White oak",13.7,23
+"2196","D7","WHO","Quercus","White oak",8.2,23
+"2197","E7","WHO","Quercus","White oak",15.1,23
+"2198","G7","WHO","Quercus","White oak",8.3,23
+"2199","D3","WHO","Quercus","White oak",18,23
+"2200","E4","WHO","Quercus","White oak",13.4,23
+"2201","D7","WHO","Quercus","White oak",15.7,23
+"2202","J3","WHO","Quercus","White oak",23.7,23
+"2203","K6","WHO","Quercus","White oak",14.1,23
+"2204","K6","WHO","Quercus","White oak",20.4,23
+"2205","D1","WHO","Quercus","White oak",22.3,23
+"2206","E3","WHO","Quercus","White oak",23.7,23
+"2207","D5","WHO","Quercus","White oak",20.3,23
+"2208","G4","WHO","Quercus","White oak",13.5,23
+"2209","E6","WHO","Quercus","White oak",21.6,23
+"2210","I6","WHO","Quercus","White oak",21.6,23
+"2211","N4","WHO","Quercus","White oak",24.3,23
+"2212","L5","WHO","Quercus","White oak",18.2,23
+"2213","F1","WHO","Quercus","White oak",28.9,23
+"2214","H3","WHO","Quercus","White oak",15.9,23
+"2215","B5","WHO","Quercus","White oak",20,23
+"2216","J5","WHO","Quercus","White oak",18.8,23
+"2217","D4","WHO","Quercus","White oak",16.6,23
+"2218","I6","WHO","Quercus","White oak",5.4,23
+"2219","D4","WHO","Quercus","White oak",18.5,23
+"2220","I5","WHO","Quercus","White oak",11.4,23
+"2221","D4","WHO","Quercus","White oak",13.4,23
+"2222","C6","WHO","Quercus","White oak",12.3,23
+"2223","G5","WHO","Quercus","White oak",14.9,23
+"2224","K6","WHO","Quercus","White oak",15.6,23
+"2225","D7","WHO","Quercus","White oak",10.2,23
+"2226","A5","WHO","Quercus","White oak",12.3,23
+"2227","D7","WHO","Quercus","White oak",6.5,23
+"2228","H4","WHO","Quercus","White oak",18,23
+"2229","K6","WHO","Quercus","White oak",13.8,23
+"2230","E7","WHO","Quercus","White oak",14.2,23
+"2231","E7","WHO","Quercus","White oak",13.5,23
+"2232","E7","WHO","Quercus","White oak",11,23
+"2233","K6","WHO","Quercus","White oak",26.5,23
+"2234","D6","WHO","Quercus","White oak",19.7,23
+"2235","D7","WHO","Quercus","White oak",13.6,23
+"2236","D4","WHO","Quercus","White oak",8.1,23
+"2237","I5","WHO","Quercus","White oak",5.9,23
+"2238","H6","WHO","Quercus","White oak",15.3,23
+"2239","K6","WHO","Quercus","White oak",8.3,23
+"2240","D6","WHO","Quercus","White oak",18.4,23
+"2241","H5","WHO","Quercus","White oak",15.4,23
+"2242","K6","WHO","Quercus","White oak",20.3,23
+"2243","F5","WHO","Quercus","White oak",17.7,23
+"2244","K6","WHO","Quercus","White oak",12.3,23
+"2245","D6","WHO","Quercus","White oak",10.9,23
+"2246","F4","WHO","Quercus","White oak",14,23
+"2247","D6","WHO","Quercus","White oak",17.4,23
+"2248","D7","WHO","Quercus","White oak",9.6,23
+"2249","I6","WHO","Quercus","White oak",7.7,23
+"2250","A5","WHO","Quercus","White oak",11.6,23
+"2251","G7","WHO","Quercus","White oak",20.5,23
+"2252","B5","WHO","Quercus","White oak",25.1,23
+"2253","E7","WHO","Quercus","White oak",21,23
+"2254","H4","WHO","Quercus","White oak",18.3,23
+"2255","I6","WHO","Quercus","White oak",13.5,23
+"2256","K5","WHO","Quercus","White oak",14.4,23
+"2257","E4","WHO","Quercus","White oak",17.4,23
+"2258","K6","WHO","Quercus","White oak",15.7,23
+"2259","F2","WHO","Quercus","White oak",15.1,23
+"2260","H6","WHO","Quercus","White oak",26.5,23
+"2261","D4","WHO","Quercus","White oak",15.1,23
+"2262","I3","WHO","Quercus","White oak",4.9,23
+"2263","J5","WHO","Quercus","White oak",9.7,23
+"2264","I6","WHO","Quercus","White oak",18.7,23
+"2265","N4","WHO","Quercus","White oak",31.1,23
+"2266","H6","WHO","Quercus","White oak",22.4,23
+"2267","I6","WHO","Quercus","White oak",13.5,23
+"2268","F1","WHO","Quercus","White oak",11.6,23
+"2269","I6","WHO","Quercus","White oak",14.1,23
+"2270","S5","WHO","Quercus","White oak",10.8,23
+"2271","A5","WHO","Quercus","White oak",8.7,23
+"2272","I6","WHO","Quercus","White oak",19.8,23
+"2273","G7","WHO","Quercus","White oak",5.8,23
+"2274","L5","WHO","Quercus","White oak",18.3,23
+"2275","D4","WHO","Quercus","White oak",9,23
+"2276","H3","WHO","Quercus","White oak",24.8,23
+"2277","I3","WHS",NA,NA,9.2,NA
+"2278","M3","WIT","Hamamelis","Witch-hazel",2.9,25
